@@ -23,7 +23,7 @@ New webinar moderators need to contact iDigBio for an Adobe Connect login with h
 
 ## One week in advance...
 
-1. Meet with presenters in advance to check software and sound. All presenters need to do the [Adobe Connect Diagnostic Test](http://idigbio.adobeconnect.com/common/help/en/support/meeting_test.htm).
+1. Schedule a sound check in Adobe Connect (must reserve time!) to meet with presenters in advance and check software, sound, etc. All presenters should do the [Adobe Connect Diagnostic Test](http://idigbio.adobeconnect.com/common/help/en/support/meeting_test.htm) in advance of this sound check.
 
 1. Copy relevant links (to the post-webinar survey, from the powerpoint presentation, etc.) into a place from which you can easy copy-paste them into the chat during the webinar. Participants typically cannot click on links in the presenter's slideshow in the Adobe Connect environment.
 
