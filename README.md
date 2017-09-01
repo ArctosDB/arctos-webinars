@@ -19,21 +19,25 @@ New webinar moderators need to contact iDigBio for an Adobe Connect login with h
 
 1. Log into Adobe Connect and reserve the appropriate date/time on iDigBio Adobe Connect Room schedule.
 
-1. Set up the post-webinar survey, which can be as generic or specific as needed/desired. Create tinyURL link to post-webinar survey for easier sharing in Adobe connect. *Contact: Shari Ellis*
+1. Set up the post-webinar survey, which can be as generic or specific as desired. Create tinyURL link to post-webinar survey for easier sharing in Adobe connect. *Contact: Shari Ellis*
 
 ## One week in advance...
 
-1. Schedule a sound check in Adobe Connect (must reserve time!) to meet with presenters in advance and check software, sound, etc. All presenters should do the [Adobe Connect Diagnostic Test](http://idigbio.adobeconnect.com/common/help/en/support/meeting_test.htm) in advance of this sound check.
+1. Schedule sound check in Adobe Connect (must reserve time!) to meet with presenters and check software, sound, etc. All presenters should do the [Adobe Connect Diagnostic Test](http://idigbio.adobeconnect.com/common/help/en/support/meeting_test.htm) in advance of this sound check.
 
-1. Copy relevant links (to the post-webinar survey, from the powerpoint presentation, etc.) into a place from which you can easy copy-paste them into the chat during the webinar. Participants typically cannot click on links in the presenter's slideshow in the Adobe Connect environment.
+1. Copy relevant links (to the post-webinar survey, from the slideshow, etc.) into a place from which you can easy copy-paste them into the chat during the webinar. Participants typically cannot click on links in the presenter's slideshow from within the Adobe Connect environment.
 
 1. Communicate about webinar to relevant communities via the following lists:
-    - Arctos Working Group
+    - Arctos User Group (*arctos [at] googlegroups.com*)
+    - Arctos Working Group (*arctos-working-group [at] googlegroups.com*)
     - Arctos Steering Committee
     - Collection and data contacts for Arctos institutions
     - iDigBio Newsletter (taken care of by iDigBio)
-    - NHCOLL-L
-    - Herbaria-L
+    - iDigBio-L (*idigbio-l [at] lists.ufl.edu*)
+    - NHCOLL-L (*nhcoll-l [at] mailman.yale.edu*)
+    - Herbaria-L (*herbaria [at] nacse.org*)
+
+1. Communicate about webinar via Arctos social media. *Contact: AWG Communications Chair, currently Kyndall Hildebrandt)
 
 ## Day of the webinar...
 
@@ -49,6 +53,6 @@ New webinar moderators need to contact iDigBio for an Adobe Connect login with h
 
 ## After the webinar...
 
-1. Record a transcript of the chat box from the webinar. To do this, go to the chat pod, then use the hamburger dropdown menu to "Email Chat History."
+1. Record a transcript of the chat box from the webinar. To do this, use the hamburger dropdown menu on the chat pod to "Email Chat History."
 
-1. Process recording of the webinar and share the link on the Arctos Working Group section of the iDigBio wiki, as well as the Arctos website, etc. Also add to the original iDigBio Calendar Announcement.
+1. Process the webinar recording and share the link on the [Arctos Working Group](https://www.idigbio.org/wiki/index.php/IDigBio_Working_Groups#Arctos_Working_Group) section of the iDigBio wiki, as well as the [Arctos website](https://arctosdb.org/learn/webinars/). Also add link to the original iDigBio Calendar Announcement.
