@@ -23,7 +23,9 @@ New webinar moderators need to contact iDigBio for an Adobe Connect login with h
 
 ## One week in advance...
 
-1. Meet with presenters in advance to check software and sound. All presenters need to do the Adobe Connect Diagnostic Test.
+1. Meet with presenters in advance to check software and sound. All presenters need to do the [Adobe Connect Diagnostic Test](http://idigbio.adobeconnect.com/common/help/en/support/meeting_test.htm).
+
+1. Copy relevant links (to the post-webinar survey, from the powerpoint presentation, etc.) into a place from which you can easy copy-paste them into the chat during the webinar. Participants typically cannot click on links in the presenter's slideshow in the Adobe Connect environment.
 
 1. Communicate about webinar to relevant communities via the following lists:
     - Arctos Working Group
@@ -32,15 +34,21 @@ New webinar moderators need to contact iDigBio for an Adobe Connect login with h
     - iDigBio Newsletter (taken care of by iDigBio)
     - NHCOLL-L
     - Herbaria-L
-    
+
 ## Day of the webinar...
 
 1. Communicate again about webinar to relevant communities via the email lists above.
 
 1. Log into Adobe Connect with presenters 60-30 minutes early for a final sound check.
 
-1. REMEMBER TO RECORD WEBINAR!
+1. Update Adobe Connect pod headings to reflect current Arctos webinar iteration.
+
+1. Ensure the Adobe Connect layout reflects the presentation needs (e.g. large presenter video pod for Q&A, screenshare pod for presentation or live demo).
+
+1. REMEMBER TO RECORD THE WEBINAR!
 
 ## After the webinar...
+
+1. Record a transcript of the chat box from the webinar. To do this, go to the chat pod, then use the hamburger dropdown menu to "Email Chat History."
 
 1. Process recording of the webinar and share the link on the Arctos Working Group section of the iDigBio wiki, as well as the Arctos website, etc. Also add to the original iDigBio Calendar Announcement.
