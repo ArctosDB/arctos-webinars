@@ -1,0 +1,12 @@
+Example Webinar Introduction Script
+
+Hi everyone, I’d like to start with a few logistics.
+
+Please do use the chat to communicate – and note the top right drop-down (hamburger) menu in the chat pod – you can change your chat text color for readability! Please jot down your insights and questions as we go through this webinar. We thrive on your input.
+We will turn on participant microphones at the end of the presentations.
+For best webinar experience: please use headsets if you have them, and note you can use the status drop-down at the top right of your menu bar to raise your hand, applause, or suggest someone talk louder or softer.
+Some of you with lower bandwidth may experience delays between what you are seeing and what you are hearing. We are taking this into account with the presentation style, but if you hover over the video feeds, you can close the video feed locally to conserve the bandwidth for the presentation.
+Key links are provided in the top of the chat to the webinar announcement, the Darwin Core Input Form, and our Post-Webinar Survey – which we need you to take before you leave today – our surveys help us meet your needs and make it so we don’t need to require webinar registration for participants – and for reporting the NSF. We are recording (starting in just a second), and the link to the recording will be added to the webinar announcement and Darwin core hour wiki later today. Now, let’s get started 
+//START START START RECORDING!!!
+
+Hi Everyone, I’m name, title, here with my co-moderator name, title and today’s speakers name, title, and name, title. We’d like to welcome you to the nth Darwin Core Hour Webinar: webinar_title. We are so pleased to have you with us today. One of our main goals in putting this webinar series and resources together is to encourage and enhance more integrated and direct collaborations between the biodiversity data and collections community together with the standards and software communities. I have a brief introduction to this DarwinCore Hour webinar series and some of the tools that we’ve prepared for your enriched DarwinCore experience and I’ll walk you through that now, before turning it over to our presenters. Please remember, your participation is vital to the evolution of biodiversity data standards and their fitness-for-use. All of us can contribute to the lineup of future Darwin Core Hour webinars, ask and answer questions, and see documented responses via the Darwin Core Input Form.
