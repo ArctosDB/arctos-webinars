@@ -12,7 +12,10 @@ New webinar moderators need to contact iDigBio for an Adobe Connect login with h
     - Abstract
     - Presenter/s
     - Moderator/s
-    - Links to any relevant pre-reading materials for best experience
+    - Links to any relevant pre-reading materials for best experience, including at least...
+        - Learn more about Arctos: https://arctosdb.org
+        - Arctos Data Portal: http://arctos.database.museum
+        - AWG Google Group: https://groups.google.com/forum/#!forum/arctos-working-group
     - Link to how to get the most out of Adobe Connect: https://www.idigbio.org/wiki/index.php/Web_Conferencing
 
 ## One month in advance...
@@ -25,9 +28,9 @@ New webinar moderators need to contact iDigBio for an Adobe Connect login with h
 
 1. Schedule sound check in Adobe Connect (must reserve time!) to meet with presenters and check software, sound, etc. All presenters should do the [Adobe Connect Diagnostic Test](http://idigbio.adobeconnect.com/common/help/en/support/meeting_test.htm) in advance of this sound check.
 
-1. Copy relevant links (to the post-webinar survey, from the slideshow, etc.) into a place from which you can easy copy-paste them into the chat during the webinar. Participants typically cannot click on links in the presenter's slideshow from within the Adobe Connect environment.
+1. Copy relevant links (to the post-webinar survey, from the slideshow, etc.) into a place from which you can easily copy-paste them into the chat during the webinar. Participants cannot click on links in the presenter's slideshow from within the Adobe Connect environment when the presenter is just sharing their screen.
 
-1. Communicate about webinar to relevant communities via the following lists:
+1. Communicate about webinar to relevant communities via the following general lists:
     - Arctos User Group (*arctos [at] googlegroups.com*)
     - Arctos Working Group (*arctos-working-group [at] googlegroups.com*)
     - Arctos Steering Committee
@@ -35,9 +38,12 @@ New webinar moderators need to contact iDigBio for an Adobe Connect login with h
     - iDigBio Newsletter (taken care of by iDigBio)
     - iDigBio-L (*idigbio-l [at] lists.ufl.edu*)
     - NHCOLL-L (*nhcoll-l [at] mailman.yale.edu*)
+    
+    And any discipline-specific lists, e.g.:
     - Herbaria-L (*herbaria [at] nacse.org*)
+    - Mammal-L (*mammal-l [at] si-listserv.si.edu*)
 
-1. Communicate about webinar via Arctos social media. *Contact: AWG Communications Chair, currently Kyndall Hildebrandt)
+1. Communicate about webinar via Arctos social media. *Contact: AWG Communications Chair, currently Kyndall Hildebrandt*
 
 ## Day of the webinar...
 
