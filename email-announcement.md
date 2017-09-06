@@ -1,17 +1,14 @@
-Arctos Webinar Series #**[INSERT SERIES NUMBER HERE]** is almost here! Join us on **[INSERT DATE & TIME HERE]** for **[INSERT TITLE HERE]**. More details at https://www.idigbio.org/content/arctos-webinar-series-episode-**[INSERT EVENT # HERE]**
+Please join us next **Tuesday** for a webinar on **[TITLE - Hyperlinked]**! 
 
-**[INSERT ABSTRACT HERE]**
+**[SHORT ABSTRACT, e.g. "Carla Cicero (Staff Curator of Birds, Museum of Vertebrate Zoology at the University of California, Berkeley) & Mariel Campbell (Collection Manager, Museum of Southwestern Biology at the University of New Mexico) will present a live demo of Arctos with time for questions and discussion at the end."]**
 
-When: **[INSERT DATE HERE]** at **[TIME]** Eastern, **[TIME]** Central, **[TIME]** Pacific, **[TIME]** UTC
-
+When: **[DATE]** at **[TIME]** Eastern / **[TIME]** UTC
 Where: https://idigbio.adobeconnect.com/room
 
 Learn more about Arctos: https://arctosdb.org
-
 Arctos data portal: http://arctos.database.museum
-
 Get in touch: arctos-working-group@googlegroups.com
 
-Additional upcoming webinars: https://arctosdb.org/learn/webinars
+Can’t make it next week? Check out our upcoming monthly webinars: https://arctosdb.org/learn/webinars. 
 
 Webinar series brought to you by the Arctos Working Group and kindly hosted by iDigBio. For more on our Adobe Connect webinar platform, please see https://www.idigbio.org/wiki/index.php/Web_Conferencing.
