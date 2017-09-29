@@ -1,0 +1,45 @@
+  Erica Krimmel:Welcome! We will begin the webinar in about 15 minutes.
+  Erica Krimmel:Green
+  Erica Krimmel:Link to the Arctos Google Group: https://groups.google.com/forum/#!forum/arctos
+  Cori, Mike, Remy:Do iDigBio and GBIF directly pull data from the DarwinCore Archives or is there an additional step to push data to those databases?
+  Mariel Campbell:Good question. We will go over this in the QA session.
+  Carol & Sima:are these webinars all going to be online?
+  Erica Krimmel:Yes, these are being recorded and will be available for viewing later
+  Carol & Sima:thanks erica
+  Andy:Can you download your data in DwC format?
+  Erica Krimmel:Yes, Andy, from the VertNet IPT you can download a DwC-A package
+  Carol & Sima:One suggestion from Sima and I - we should do a webinar on uploading media to Arctos!
+  Erica Krimmel:Great idea--we'll add it to the list :)
+  Kari Harris, ACBC:Is it possible to print labels for specimens from Arctos? 
+  Mariel Campbell:Yes, the report builder can be used to print specimen labels, as well as loan transaction forms,  etc. All reports are customizable for each collection.
+  cindy opitz, university of iowa MNH:does Arctos use standard authorities, or does each institution choose its own authorities?
+  Kari Harris, ACBC:Thanks Mariel :)
+  Erica Krimmel 3:Keep your questions coming, but if you have to leave early remember to complete our post-webinar survey: http://tinyurl.com/iDigbioArctosWebinar1
+  cindy opitz, university of iowa MNH:what about taxonomic authorities?
+  NFWFL:What is the flexibility of taxonomic naming?  For example, you had sandhill crane as Grus, but it has recently been changed to Antigone
+  Mariel Campbell:Arctos has a taxonomic system but also can tie in to other classifications e.g. NCBII etc
+  Cori, Mike, Remy:what if there isn't really a standard classification? (e.g., fossils)
+  Erica Krimmel 3:And we will be doing an entire webinar on managing taxonomy in Arctos later this fall or winter!
+  Mariel Campbell:You can create whatever classification you need based on the information currently available
+  Erica Krimmel 3:Exactly, that's what we did and it's working very well.
+  Kari Harris, ACBC:I have a question regarding agents and bulk uploads. If we are going to bulk upload our specimens, do we have to create all the agent records first? 
+  Erica Krimmel 3:Kari, short anwer is yes but the longer answer is that Arctos has a variety of scripts and data management tools to help you do this easily.
+  Mariel Campbell:This is part of the pre-bulloader check as well as VertNet migrators
+  Kari Harris, ACBC:Ok, thank you
+  Dianna K:Is there a way link data entered into Arctos to an automatic export into VertNet or GBIF? Or is submission to a shared DropBox still typical?
+  Kevin Kocot:thank you, Carla
+  UMNH staff:Thank you from Salt Lake!!
+  Mariel Campbell:Pllease feel free to email with additional questions
+  Dianna K:Sorry! I was in and out for a bit there :) I will re-watch in total later.
+  Carol & Sima:Carla - we have to tell GBIF to pull the data and update it through VertNet IPT
+  Carol & Sima:Carla - its CArol, I think through Kurator, you can make a DwC compliant file!
+  Carol & Sima:kurator is the program John Wieczorek is making
+  Erica Krimmel 3:http://tinyurl.com/iDigbioArctosWebinar1
+  John Anglin, Field Museum of Natural History:Thank you so much!
+  Hayley Singleton, Beneski Museum of Natural History:Thanks Erica and Carla!!
+  Mariel Campbell:Thank you, everyone!
+  Carol & Sima:Thanks Erica, Carla and Mariel
+  Dawn Roberts:Thank you!
+  Kari Harris, ACBC:Thank you! :) 
+  Phyllis Sharp:Thanks so much.  
+  Erica Krimmel 3:Email would be to arctos-working-group@googlegroups.com
