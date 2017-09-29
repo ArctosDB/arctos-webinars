@@ -31,13 +31,13 @@ New webinar moderators need to contact iDigBio for an Adobe Connect login with h
 
 1. Copy relevant links (to the post-webinar survey, from the slideshow, etc.) into a place from which you can easily copy-paste them into the chat during the webinar. Participants cannot click on links in the presenter's slideshow from within the Adobe Connect environment when the presenter is just sharing their screen.
 
-1. Communicate about webinar to relevant communities via the listservs and other outlets detailed in [email-lists.md](/email-lists.md).
+1. Communicate about webinar to relevant communities via the listservs and other outlets detailed in [email-lists](/email-lists.md).
 
 1. Communicate about webinar via Arctos social media. *Contact: AWG Communications Chair, currently Kyndall Hildebrandt*
 
 ## Day of the webinar...
 
-1. Communicate again about webinar to relevant communities via the listservs and other outlets detailed in [email-lists.md](/email-lists.md).
+1. Communicate again about webinar to relevant communities via the listservs and other outlets detailed in [email-lists](/email-lists.md).
 
 1. Log into Adobe Connect with presenters 60-30 minutes early for a final sound check.
 
