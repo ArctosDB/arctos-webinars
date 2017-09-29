@@ -31,6 +31,8 @@ New webinar moderators need to contact iDigBio for an Adobe Connect login with h
 
 1. Copy relevant links (to the post-webinar survey, from the slideshow, etc.) into a place from which you can easily copy-paste them into the chat during the webinar. Participants cannot click on links in the presenter's slideshow from within the Adobe Connect environment when the presenter is just sharing their screen.
 
+1. Edit the template for webinar intro slides, either using the powerpoint [here](/arctos-webinar-intro-template.pptx) or the Google slides [here](https://docs.google.com/presentation/d/1164m2A4uvhUtIK-A1RFgYT20lOOenKzD31MQRHBIpnY/edit?usp=sharing).
+
 1. Communicate about webinar to relevant communities via the listservs and other outlets detailed in [email-lists](/email-lists.md).
 
 1. Communicate about webinar via Arctos social media. *Contact: AWG Communications Chair, currently Kyndall Hildebrandt*
@@ -49,6 +51,6 @@ New webinar moderators need to contact iDigBio for an Adobe Connect login with h
 
 ## After the webinar...
 
-1. Record a transcript of the chat box from the webinar. To do this, use the hamburger dropdown menu on the chat pod to "Email Chat History." Save transcript in this repository at [/webinar-chat-archive](/webinar-chat-archive).
+1. Record a transcript of the chat box from the webinar. To do this, use the hamburger dropdown menu on the chat pod to "Email Chat History." Save transcript in this repository in the [webinar-chat-archive](/webinar-chat-archive) directory.
 
 1. Process the webinar recording as an Mp4, upload it to the [Arctos YouTube channel](https://www.youtube.com/channel/UCoSCkXhrjG-mwLFYRqjNyJA), and share the link on the [Arctos Working Group](https://www.idigbio.org/wiki/index.php/IDigBio_Working_Groups#Arctos_Working_Group) section of the iDigBio wiki, as well as the [Arctos website](https://arctosdb.org/learn/webinars).
