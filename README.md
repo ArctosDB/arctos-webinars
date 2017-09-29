@@ -14,8 +14,9 @@ New webinar moderators need to contact iDigBio for an Adobe Connect login with h
     - Moderator/s
     - Links to any relevant pre-reading materials for best experience, including at least...
         - Learn more about Arctos: https://arctosdb.org
+        - Recordings of past Arctos webinars: https://arctosdb.org/learn/webinars
         - Arctos Data Portal: http://arctos.database.museum
-        - AWG Google Group: https://groups.google.com/forum/#!forum/arctos-working-group
+        - Arctos Handbook: http://handbook.arctosdb.org
     - Link to how to get the most out of Adobe Connect: https://www.idigbio.org/wiki/index.php/Web_Conferencing
 
 ## One month in advance...
@@ -26,28 +27,17 @@ New webinar moderators need to contact iDigBio for an Adobe Connect login with h
 
 ## One week in advance...
 
-1. Schedule sound check in Adobe Connect (must reserve time!) to meet with presenters and check software, sound, etc. All presenters should do the [Adobe Connect Diagnostic Test](http://idigbio.adobeconnect.com/common/help/en/support/meeting_test.htm) in advance of this sound check.
+1. Do a sound check in Adobe Connect (must reserve time ahead!) to meet with presenters and check software, sound, etc. All presenters should do the [Adobe Connect Diagnostic Test](http://idigbio.adobeconnect.com/common/help/en/support/meeting_test.htm) in advance of this sound check.
 
 1. Copy relevant links (to the post-webinar survey, from the slideshow, etc.) into a place from which you can easily copy-paste them into the chat during the webinar. Participants cannot click on links in the presenter's slideshow from within the Adobe Connect environment when the presenter is just sharing their screen.
 
-1. Communicate about webinar to relevant communities via the following general lists:
-    - Arctos User Group (*arctos [at] googlegroups.com*)
-    - Arctos Working Group (*arctos-working-group [at] googlegroups.com*)
-    - Arctos Steering Committee
-    - Collection and data contacts for Arctos institutions
-    - iDigBio Newsletter (taken care of by iDigBio)
-    - iDigBio-L (*idigbio-l [at] lists.ufl.edu*)
-    - NHCOLL-L (*nhcoll-l [at] mailman.yale.edu*)
-    
-    And any discipline-specific lists, e.g.:
-    - Herbaria-L (*herbaria [at] nacse.org*)
-    - Mammal-L (*mammal-l [at] si-listserv.si.edu*)
+1. Communicate about webinar to relevant communities via the listservs and other outlets detailed in [email-lists.md](/email-lists.md).
 
 1. Communicate about webinar via Arctos social media. *Contact: AWG Communications Chair, currently Kyndall Hildebrandt*
 
 ## Day of the webinar...
 
-1. Communicate again about webinar to relevant communities via the email lists above.
+1. Communicate again about webinar to relevant communities via the listservs and other outlets detailed in [email-lists.md](/email-lists.md).
 
 1. Log into Adobe Connect with presenters 60-30 minutes early for a final sound check.
 
@@ -59,6 +49,6 @@ New webinar moderators need to contact iDigBio for an Adobe Connect login with h
 
 ## After the webinar...
 
-1. Record a transcript of the chat box from the webinar. To do this, use the hamburger dropdown menu on the chat pod to "Email Chat History."
+1. Record a transcript of the chat box from the webinar. To do this, use the hamburger dropdown menu on the chat pod to "Email Chat History." Save transcript in this repository at [/webinar-chat-archive](/webinar-chat-archive).
 
-1. Process the webinar recording and share the link on the [Arctos Working Group](https://www.idigbio.org/wiki/index.php/IDigBio_Working_Groups#Arctos_Working_Group) section of the iDigBio wiki, as well as the [Arctos website](https://arctosdb.org/learn/webinars/). Also add link to the original iDigBio Calendar Announcement.
+1. Process the webinar recording as an Mp4, upload it to the [Arctos YouTube channel](https://www.youtube.com/channel/UCoSCkXhrjG-mwLFYRqjNyJA), and share the link on the [Arctos Working Group](https://www.idigbio.org/wiki/index.php/IDigBio_Working_Groups#Arctos_Working_Group) section of the iDigBio wiki, as well as the [Arctos website](https://arctosdb.org/learn/webinars).
