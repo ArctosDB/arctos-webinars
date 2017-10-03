@@ -6,6 +6,8 @@ New webinar moderators need to contact iDigBio for an Adobe Connect login with h
 
 1. Reserve date/time on iDigBio calendar. *Contact: Molly Phillips*
 
+:heavy_exclamation_mark: ```When this is done remove tag "need to schedule with iDigBio"```
+
 1. Post the following information as an iDigBio Calendar Announcement:
     - Date and time
     - Title
@@ -18,22 +20,32 @@ New webinar moderators need to contact iDigBio for an Adobe Connect login with h
         - Arctos Data Portal: http://arctos.database.museum
         - Arctos Handbook: http://handbook.arctosdb.org
     - Link to how to get the most out of Adobe Connect: https://www.idigbio.org/wiki/index.php/Web_Conferencing
+ 
+:heavy_exclamation_mark: ```When this is done remove tag "need content for calendar announcement"```
 
 ## One month in advance...
 
 1. Log into Adobe Connect and reserve the appropriate date/time on iDigBio Adobe Connect Room schedule.
 
+:heavy_exclamation_mark: ```When this is done remove tag "need to reserve adobe connect time"```
+
 1. Set up the post-webinar survey, which can be as generic or specific as desired. Create tinyURL link to post-webinar survey for easier sharing in Adobe connect. *Contact: Shari Ellis*
+
+:heavy_exclamation_mark: ```When this is done remove tag "need post-webinar survey"```
 
 ## One week in advance...
 
 1. Do a sound check in Adobe Connect (must reserve time ahead!) to meet with presenters and check software, sound, etc. All presenters should do the [Adobe Connect Diagnostic Test](http://idigbio.adobeconnect.com/common/help/en/support/meeting_test.htm) in advance of this sound check.
+
+:heavy_exclamation_mark: ```When this is done remove tag "need to do sound check"```
 
 1. Copy relevant links (to the post-webinar survey, from the slideshow, etc.) into a place from which you can easily copy-paste them into the chat during the webinar. Participants cannot click on links in the presenter's slideshow from within the Adobe Connect environment when the presenter is just sharing their screen.
 
 1. Edit the template for webinar intro slides, either using the powerpoint [here](/arctos-webinar-intro-template.pptx) or the Google slides [here](https://docs.google.com/presentation/d/1164m2A4uvhUtIK-A1RFgYT20lOOenKzD31MQRHBIpnY/edit?usp=sharing).
 
 1. Communicate about webinar to relevant communities via the listservs and other outlets detailed in [email-lists](/email-lists.md).
+
+:heavy_exclamation_mark: ```When this is done remove tag "need to do email blast"```
 
 1. Communicate about webinar via Arctos social media. *Contact: AWG Communications Chair, currently Kyndall Hildebrandt*
 
