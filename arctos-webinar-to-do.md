@@ -54,3 +54,5 @@ New webinar moderators need to contact iDigBio for an Adobe Connect login with h
 1. Record a transcript of the chat box from the webinar. To do this, use the hamburger dropdown menu on the chat pod to "Email Chat History." Save transcript in this repository in the [webinar-chat-archive](/webinar-chat-archive) directory.
 
 1. Process the webinar recording as an Mp4, upload it to the [Arctos YouTube channel](https://www.youtube.com/channel/UCoSCkXhrjG-mwLFYRqjNyJA), and share the link on the [Arctos Working Group](https://www.idigbio.org/wiki/index.php/IDigBio_Working_Groups#Arctos_Working_Group) section of the iDigBio wiki, as well as the [Arctos website](https://arctosdb.org/learn/webinars).
+
+1. Archive the post-webinar survey results in the [webinar-survey-results](/webinar-survey-results) directory. iDigBio will email these as a Word document to whoever moderated the webinar.
