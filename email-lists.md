@@ -7,6 +7,8 @@
 - Mammal-L (*mammal-l [at] si-listserv.si.edu*)
 - Ornithology Exchange (*http://ornithologyexchange.org/forums*)
 - Herbaria-L (*herbaria [at] nacse.org*)
+- Entomological Collections Network (*ECN-L [at] listserv.unl.edu*)
+- Biological Systematics Discussion List (*taxacom [at] mailman.nhm.ku.edu*)
 - Twitter (@arctosdb)
 
 Arctos community members should also be encouraged to forward to any listservs or other groups they think would be interested.
