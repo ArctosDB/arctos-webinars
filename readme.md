@@ -11,7 +11,8 @@ be viewed by clicking on the date. Information about the Arctos webinar series c
 | Transactions and Agents (outline) | Michelle, Carla | [2017-11-14](https://www.idigbio.org/content/arctos-webinar-series-episode-3) |  |
 | Projects, Publications, and Citations (outline) |  | [2017-12-12]() |  |
 | Data Entry and Bulkloading (outline) | Emily | [2018-01-09]() |  |
-| Understanding Localities and Geospatial Tools (outline) | Michelle | [2018-02-12]() |  |
+| Data cleaning tools for use prior to migrating into Arctos (outline) | Erica | [2018-02-12]() |
+| Understanding Localities and Geospatial Tools (outline) | Michelle | [March, date TBD]() |  |
 
 Webinars are scheduled and managed through this repository. Please see [issues](/issues) to review or comment on potential webinar topics.
 Please see [arctos-webinar-to-do](/arctos-webinar-to-do.md) for an overview of what needs to happen to make one of these webinars happen.
