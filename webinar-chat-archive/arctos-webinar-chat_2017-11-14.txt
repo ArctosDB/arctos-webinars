@@ -1,0 +1,56 @@
+  Erica Krimmel:Welcome, we will begin the webinar shortly, at 3pm EST
+  Arkansas Center for Biodiversity Collections (ACBC):Hi Erica! 
+  Erica Krimmel:Hi!
+  Beth Wommack, UWYMV:Looks fine here
+  MK- UC Berkeley:good to know! thx
+  Erica Krimmel:Good!
+  Mariel Campbell:Projects and accessions?
+  MK- UC Berkeley:We will cover that at the end
+  Beth Wommack, UWYMV:Would pictures be something you would add to an accession, or would it be better to attach them to a specimen?
+  Mariel Campbell:ok
+  Arkansas Center for Biodiversity Collections (ACBC):Can the accession number field be automated or does it need to be entered by hand for each record? 
+  MK- UC Berkeley:yes it can be automated
+  Arkansas Center for Biodiversity Collections (ACBC):Thanks!
+  Beth Wommack, UWYMV:Thank you
+  Arkansas Center for Biodiversity Collections (ACBC):Yes :) 
+  Mariel Campbell:can also get a specimen list via the accession list
+  Lindsey Worcester (Morton Arboretum):Could Arctos be used to link between herbarium specimens and living collections? 
+  Erica Krimmel:Good question, and one we should come back to at the end, but short answer is yes (depending on what exactly you're envisioning)
+  Teresa Mayfield (UTEP):Lindsey, I say yes as well. I have tried to get my grounds crew here at UTEP to move their living collection data (they have a database of trees and certain plants on campus) to Arctos. We could connect their specimens with any herbarium sheets and even other specimens colelcted on the plants (insects).
+  Mary Beth, University of Alabama Museums:Can Arctos notify me in some manner when a lone is due? 
+  Teresa Mayfield (UTEP):I have a question about the "next loan number" function. Do you have to number loans in a certain way to make that work? I haven't been able to get it to work for me...
+  Lindsey Worcester (Morton Arboretum):Awesome, thanks, Erica and Teresa! 
+  Erica Krimmel:Mary Beth, yes and you can also set other people to recieve reminders (they would be listed as contacts on the Arctos loan)
+  MK- UC Berkeley:Teresa, I will ask Carla after this topic
+  Beth Wommack, UWYMV:If you do a loan to an artist and they produce a painting from it, would you attach a scan of the painting to the loan?
+  Mary Beth, University of Alabama Museums:Thanks, Erica!
+  Beth Wommack, UWYMV:Or to the project?
+  Mariel Campbell:Can you repeat the question? We can't hear?
+  Teresa Mayfield (UTEP):Nope
+  Beth Wommack, UWYMV:We can hear Carla, but not Michelle
+  Beth Wommack, UWYMV:Thank you!
+  Mariel Campbell:Carla, can you point out the reports function for loan invoices etc?
+  Beth Wommack, UWYMV:Do you create data loans for all researchers visiting to your collection if they are coming to examine specimens?
+  Teresa Mayfield (UTEP):If they examine specimens, I create an in-house loan.
+  Erica Krimmel:I turned on everyone's microphones, so if you'd like to speak you are welcome to
+  Erica Krimmel:We have other Arctos users in the audience who might have insight as we talk about questions for the last 10 minutes
+  Teresa Mayfield (UTEP):When someone asks me for data, I create a data loan. If they touch a specimen, I create one of the other forms of loans.
+  Emily Braker:I always create an in-house loan for visiting researchers. If they don't know  exactly which specimens they will be examining ahead of time I have them record catalog numbers as they go. That way I can print out a loan header ahead of time and have them sign it in person, and then create an invoice listing the specimens examined after the fact.
+  Mariel Campbell:Can you show that linkage?
+  Mariel Campbell:E.g. how you link projects to loans and accessions in the forms?
+  Erica Krimmel:Get your questions in now if you have 'em!
+  Mary Beth, University of Alabama Museums:So does a data lone or in-house loan replace a sign-in book to the collections?
+  Erica Krimmel:Mary Beth, either or both could depending on how your institution decided to track this kind of use
+  Teresa Mayfield (UTEP):Mary Beth, it could if you colelct all the same data about the borrower that you would keep in a sign-in book!
+  Teresa Mayfield (UTEP):*collect
+  Lindsey Worcester (Morton Arboretum):Thanks!!!
+  Beth Wommack, UWYMV:Thanks everyone!
+  Mary Beth, University of Alabama Museums:Okay, thanks everyone!
+  Erica Krimmel:http://tinyurl.com/iDigbioArctosWebinar3
+  nachofelpete:Hi everyone. Congrats for such a great app. It really looks great.
+  Erica Krimmel:http://arctosdb.org/learn/webinars
+  Erica Krimmel:http://bit.ly/arctosweb-4
+  Mary Beth, University of Alabama Museums:Bye!
+  Mariel Campbell:Thanks!
+  Teresa Mayfield (UTEP):Thanks!
+  nachofelpete:Thank you!
