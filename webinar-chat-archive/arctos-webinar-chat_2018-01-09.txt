@@ -1,0 +1,68 @@
+Erica Krimmel: (1/9/2018 13:04) Welcome, we will begin this webinar in one hour, at 3pm Eastern Standard Time
+  Teresa Mayfield: (13:32) Woo hoo! I'm here!!!
+  Teresa Mayfield: (13:33) And I can hear you!
+  Teresa Mayfield: (13:33) Absolutely! and I'll try to keep up with questions as we go too.
+  Teresa Mayfield: (13:55) I just noticed that the title slide is not the right topic for the webinar!
+  Teresa Mayfield: (13:58) Welcome everyone! We will be starting soon.
+  Jennifer Trimble(HARVARD): (14:05) Let us know when the mic is live
+  Erica Krimmel: (14:06) Will do. Mics won't be live for participants until the final discussion period. You can hear Emily, though, yes?
+  Jennifer Trimble(HARVARD): (14:06) No
+  Erica Krimmel: (14:06) Try clicking the speaker icon on your top toolbar, it should be green
+  Erica Krimmel: (14:07) Is anyone else having trouble hearing? Emily sounds fine to me!
+  Jennifer Trimble(HARVARD): (14:07) Thanks
+  Dustin Perriguey (University of New Mexico): (14:11) It would be nice if it were more zoomed in. 
+  Carla Cicero, MVZ: (14:15) Can you say something about why Cat# isn't showing as required? Records must have a cat# in Arctos. If not entered, does Arctos assign the next available number automatically?
+  Teresa Mayfield: (14:16) Yes, if there is no entry, Arctos will assign the next available number.
+  Carla Cicero, MVZ: (14:16) Thanks, that's what I thought. Just wanted to make that clear to folks.
+  Erica Krimmel: (14:16) A good point!
+  Teresa Mayfield: (14:16) Emily mentioned it, but seeing it in print is good!
+  Carla Cicero, MVZ: (14:17) I missed her saying something about that. Thanks.
+  Dustin Perriguey (University of New Mexico): (14:18) Do you have to create a new agent for every collector? What if they are not living?
+  Teresa Mayfield: (14:18) Yes, a new agent must be created! Darwin is not living, but you still want his name in there if you have one of his specimens in your collection!
+  Dustin Perriguey (University of New Mexico): (14:19) Ok, thanks!
+  Teresa Mayfield: (14:19) However, if you have a one-off collector who probably only ever colelcted one specimen, you may want to use "unknown" as the collector and put the collector's name in the part attributes as a verbatim collector.
+  Teresa Mayfield: (14:20) *collected...
+  Erica Krimmel: (14:20) And if you have a LOT of new agent names that need creating Arctos has tools to help you do so in bulk, rather than one by one
+  Carla Cicero, MVZ: (14:20) Even in those cases, I would still add the collector as a name. But that's a curatorial decision.
+  Dustin Perriguey (University of New Mexico): (14:20) Great.
+  Teresa Mayfield: (14:21) I agree with Carla - I usually enter every collector as a new agent as long as I have a full name.
+  Carla Cicero, MVZ: (14:22) right. If you only know initials or last name, then I usually put 'unknown' as the collector and the rest in either verbatim collector or remarks.
+  Beth Wommack, UWYMV: (14:23) How do you keep track of legacy specimens when you have a historic ID, and then when you are cataloging you re-ID it?
+  Teresa Mayfield: (14:23) Your specimen will retain both identifications, with the last being the accepted one.
+  Teresa Mayfield: (14:24) If you are entering specimens with two identifications, I suggest entering with the legacy identification, then you can bulk add new identifications (that's another webinar...)
+  Beth Wommack, UWYMV: (14:25) So for a donated legacy specimen with an incorrect ID, you would keep the incorrect ID?
+  Teresa Mayfield: (14:26) That would be a curatorial decision. I would probably do it for my data just to keep a complete record in one place.
+  Teresa Mayfield: (14:27) You caould also discuss the incorrect ID in the identification remarks.
+  Teresa Mayfield: (14:27) *could
+  Carla Cicero, MVZ: (14:28) In that case, I would probably enter the correct ID, with you as the determiner ('expert') and put something in ID remarks such as "Originally identified incorrectly as XXX."" That way you don't have to go back and update the ID after it's loaded. But again, a curatorial decision. If it's a field ID that got changed due to a taxonomic revision, for ex, then I think it's important to keep both as Teresa said so you have that history.
+  Beth Wommack, UWYMV: (14:28) Ok thank you
+  Dustin Perriguey (University of New Mexico): (14:29) Is verbatim locality where you put township,range, and section?
+  Teresa Mayfield: (14:30) I usually have it in there, but I also put it in locality remarks. There isn't really an accepted place for that right now.  Sometimes, that is all I have and it becomes my specific locality as well.
+  Teresa Mayfield: (14:31) Same goes for UTM
+  Carla Cicero, MVZ: (14:33) I would put TRS in verbatim locality too, then georeference with uncertainty that covers the section area. You can enter verbatim UTM, but then also georeference to decimal degrees.
+  Dustin Perriguey (University of New Mexico): (14:34) Ok thanks
+  Carla Cicero, MVZ: (14:35) If I have original coordinates (UTM, dec degrees, etc)., I also put those in verbatim locality and again in verbatim coordinates.
+  Teresa Mayfield: (14:35) Agree. I put everthing related to the collection location in verbatim locality.
+  Beth Wommack, UWYMV: (14:46) How does everyone like handling the degree symbol in verbatim coordinates?
+  Teresa Mayfield: (14:46) I replace them all with "deg" before bulkloading.
+  Carla Cicero, MVZ: (14:46) Emily mentioned this quickly, but it's important to emphasize that attributes  and parts are collection specific. So if you are bulkloading herps and want to have a data entry screen open to check vocabulary values, make sure that you have the data entry screen open for that collection type (e.g., herps).
+  Teresa Mayfield: (14:47) Yes. I actually prefer to go stright to the code tables when creating my spreadsheet.
+  Teresa Mayfield: (14:47) *straight
+  Carla Cicero, MVZ: (14:47) So do I.
+  Teresa Mayfield: (14:51) When you "download with errors", you will get a .csv and all of the date formats will revert to dd/mm/yyyy. I prefer to use the download to help me make changes in my original excel file.
+  Erica Krimmel: (14:53) In case anyone will be needing to leave early, a reminder to PLEASE do our 1-minute post webinar survey! https://tinyurl.com/iDigBioArctosWebinar5
+  Erica Krimmel: (14:54) handbook.arctosdb.org
+  Erica Krimmel: (14:54) http://handbook.arctosdb.org/how_to/How-to-Enter-Specimens-in-the-Field.html
+  Carla Cicero, MVZ: (14:55) that was excellent!
+  Dustin Perriguey (University of New Mexico): (14:55) Very helpful thank you
+  Erica Krimmel: (14:58) https://tinyurl.com/iDigBioArctosWebinar5
+  Dustin Perriguey (University of New Mexico): (14:58) Do you mean holding people up across institutions?
+  Teresa Mayfield: (14:58) Yes!
+  Teresa Mayfield: (14:58) Only one Arctos user can be in the bulkloader at a time.
+  Dustin Perriguey (University of New Mexico): (14:59) Thank you, good to know
+  Dustin Perriguey (University of New Mexico): (15:00) Great!
+  Jennifer Trimble(HARVARD): (15:00) Thanks so much
+  Teresa Mayfield: (15:00) Thanks, Emily! That was amazing!!!
+  Dustin Perriguey (University of New Mexico): (15:01) Thank you all! Very helpful!
+  Erica Krimmel: (15:01) arctosdb.org/learn/webinars/
+  Erica Krimmel: (15:01) http://arctosdb.org/learn/webinars/
