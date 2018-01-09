@@ -47,7 +47,7 @@ New webinar moderators need to contact iDigBio for an Adobe Connect login with h
 
 :heavy_exclamation_mark: ```When this is done remove tag "need to do email blast"```
 
-9. Communicate about webinar via Arctos social media. *Contact: AWG Communications Chair, currently Kyndall Hildebrandt*
+9. Communicate about webinar via Arctos social media and arctos.database.museum webpage banner. *Contact: AWG Communications Chair, currently Kyndall Hildebrandt*
 
 ## Day of the webinar...
 
