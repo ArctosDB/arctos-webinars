@@ -12,7 +12,7 @@ be viewed by clicking on the date. Information about the Arctos webinar series c
 | [Projects, Publications, and Citations](https://www.youtube.com/watch?v=n06u4rni5z8&list=PLA1YSv1rn8XcR6Pe0qyNuM8h07GB87bMh&index=5) ([outline](https://docs.google.com/document/d/1t9EGB0P-JrakM4m5R8zhCF6SjxaCNbBGsQVyFGWKA6A)) | Michelle, Jon, Mariel | [2017-12-12](https://www.idigbio.org/content/arctos-webinar-series-projects-publications-and-citations) | 12 |
 | Data Entry and Bulkloading | Emily, Teresa | [2018-01-09](https://www.idigbio.org/content/arctos-webinar-series-data-entry-and-bulkloading) | 27 |
 | Data Cleaning Tools for Use Prior to Migrating | Erica, Andy | [2018-02-12](https://www.idigbio.org/content/arctos-webinar-series-data-cleaning-tools-use-prior-migrating-arctos) |
-| Introduction to Cultural Collections in Arctos | Angie, Teresa | 2018-03-13 |
+| Introduction to Cultural Collections in Arctos | Angie, Teresa | 2018-03-13 (https://www.idigbio.org/content/arctos-webinar-series-understanding-localities-and-geospatial-tools) |
 | Tissues, Containers, and Object Tracking in Arctos | Kyndall, Mariel | 2018-04-10 |
 | Arctos Reports | Andy, Aren | 2018-05-08 |
 | Arctos Help Day | TBD | 2018-06-12 | |
