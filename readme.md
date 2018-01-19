@@ -16,5 +16,6 @@ be viewed by clicking on the date. Information about the Arctos webinar series c
 | Tissues, Containers, and Object Tracking in Arctos | Kyndall, Mariel | 2018-04-10 |
 | Arctos Reports | Andy, Aren | 2018-05-08 |
 | Arctos Help Day | TBD | 2018-06-12 | |
+
 Webinars are scheduled and managed through this repository. Please see [issues](/issues) to review or comment on potential webinar topics.
 Please see [arctos-webinar-to-do](/arctos-webinar-to-do.md) for an overview of what needs to happen to make one of these webinars happen.
