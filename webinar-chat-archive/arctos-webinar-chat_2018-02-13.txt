@@ -1,0 +1,27 @@
+  Andrew Doll:Hello!
+  Teresa Mayfield (MSB):Yes!
+  Teresa Mayfield (MSB):Maybe make the Excel bigger (more than 100%)
+  Teresa Mayfield (MSB):Thats better
+  Teresa Mayfield (MSB):It is a little slow (blurry at first), but then it resolves fine.
+  Teresa Mayfield (MSB):I can if necessary, but it will probably be noisy in here.
+  Teresa Mayfield (MSB):I'm using my personal laptop. :-)
+  Emily Braker:Welcome! We will begin the webinar shortly at 3 pm EST.
+  Tom G.:or 20:00 Zulu Time.. :-)
+  Teresa Mayfield (MSB):Loud and clear!
+  Erica Krimmel (NMH Los Angeles):https://github.com/tdwg/dwc-qa/wiki/Webinars#chapter9
+  Erica Krimmel (NMH Los Angeles):More links for learning about OpenRefine: http://bit.ly/refine-links
+  Diego Barroso - U of Michigan:Can anyone access the Arctos tools, simply by creating an account on the portal? We use Specify at U of M, but I'd like to try validating my data using these tools before I import it. Thanks.
+  Teresa Mayfield (MSB):Erica, would it be possible to use OPenRefine to search the Reptile Database, just as it searched Google Maps?
+  Erica Krimmel (NMH Los Angeles):It would be possible if they have an API, but I'm not familiar with Reptile Database so idk if they do
+  Aaron Goldberg (UW-Madison):Can Arctos identify duplicates across collecectiond within Arctos?
+  Diego Barroso - U of Michigan:OK, great, thanks for the suggestions.
+  Aaron Goldberg (UW-Madison):For example, if our collection has a specimen, and there is a duplicate specimen from another collection within Arctos, would you be able to link those specimens together?
+  Teresa Mayfield (MSB):If they are parts of the same specimen, yes
+  Teresa Mayfield (MSB):Also, specimens collected together can be linked.
+  Aaron Goldberg (UW-Madison):Excellent, thanks
+  Emily Braker:https://tinyurl.com/idigbioarctoswebinar6
+  Carol S:Thanks everyone, that was really helpful!!
+  Erica Krimmel (NMH Los Angeles):Carol: http://www.reptile-database.org/data/
+  Carol S:Cool thanks! Yes, I have 't been using openrefine but would like to use it just like you showed!! very helpful
+  Teresa Mayfield (MSB):Thanks!
+  Teresa Mayfield (MSB):Adios!
