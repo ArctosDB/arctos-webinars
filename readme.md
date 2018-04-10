@@ -13,7 +13,7 @@ be viewed by clicking on the date. Information about the Arctos webinar series c
 | [Data Entry and Bulkloading](https://www.youtube.com/watch?v=fUE5deS_hLo&list=PLA1YSv1rn8XcR6Pe0qyNuM8h07GB87bMh&index=6&t=1s) | Emily, Teresa | [2018-01-09](https://www.idigbio.org/content/arctos-webinar-series-data-entry-and-bulkloading) | 27 |
 | [Data Cleaning Tools for Use Prior to Migrating](https://www.youtube.com/watch?v=qvxcQ6RDA-U&list=PLih71md2knDh9vQ1uQ0MPBVly1bQ8JSma&index=3&t=1s) ([outline](https://docs.google.com/document/d/1gvMendWIcNMsrLo53M1tYgSAl3OCH0kx3bARsykgq1w/edit?usp=sharing))| Erica, Andy | [2018-02-13](https://www.idigbio.org/content/arctos-webinar-series-data-cleaning-tools-use-prior-migrating-arctos) | 19 |
 | [Introduction to Cultural Collections in Arctos](https://www.youtube.com/watch?v=iVVq0HKbVNU&feature=youtu.be) | Angie, Teresa | [2018-03-13](https://www.idigbio.org/content/arctos-webinar-series-introduction-cultural-collections-arctos)  | 14 |
-| Tissues, Containers, and Object Tracking in Arctos | Kyndall, Mariel | [2018-04-10](https://www.idigbio.org/content/arctos-webinar-tissues-containers-and-object-tracking-arctos) |
+| Tissues, Containers, and Object Tracking in Arctos | Kyndall, Mariel | [2018-04-10](https://www.idigbio.org/content/arctos-webinar-tissues-containers-and-object-tracking-arctos) | 9 |
 | Arctos Reports | Andy, Aren | [2018-05-08](https://www.idigbio.org/content/webinar-arctos-reports) |
 | Arctos Help Day | TBD | 2018-06-12 | |
 
