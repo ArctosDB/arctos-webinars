@@ -15,7 +15,7 @@ be viewed by clicking on the date. Information about the Arctos webinar series c
 | [Introduction to Cultural Collections in Arctos](https://www.youtube.com/watch?v=iVVq0HKbVNU&feature=youtu.be) | Angie, Teresa | [2018-03-13](https://www.idigbio.org/content/arctos-webinar-series-introduction-cultural-collections-arctos)  | 14 |
 | [Tissues, Containers, and Object Tracking in Arctos](https://www.youtube.com/playlist?list=PLih71md2knDh9vQ1uQ0MPBVly1bQ8JSma) | Kyndall, Mariel | [2018-04-10](https://www.idigbio.org/content/arctos-webinar-tissues-containers-and-object-tracking-arctos) | 9 |
 | [Arctos Reports](https://www.youtube.com/watch?v=XQwXw0e9w-E&list=PLih71md2knDh9vQ1uQ0MPBVly1bQ8JSma) | Andy, Aren | [2018-05-08](https://www.idigbio.org/content/webinar-arctos-reports) | 10 |
-| Arctos Help Day | TBD | 2018-06-12 ||
+| Arctos Help Day | TBD | [2018-06-12] (https://www.idigbio.org/content/arctos-open-office-hours) ||
 
 Webinars are scheduled and managed through this repository. Please see [issues](/issues) to review or comment on potential webinar topics.
 Please see [arctos-webinar-to-do](/arctos-webinar-to-do.md) for an overview of what needs to happen to make one of these webinars happen.
