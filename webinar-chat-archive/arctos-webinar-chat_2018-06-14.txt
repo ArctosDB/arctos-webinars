@@ -1,0 +1,57 @@
+Michelle Koo: are you talking?
+
+Michelle Koo: i dont hear anything
+
+Carla Cicero, MVZ: sorry, had to reboot everything
+
+Michelle Koo: i cant hear yuo
+
+Carla Cicero, MVZ: i hear you
+
+Carla Cicero, MVZ: seeing if having a headset helps
+
+Angela Linn: I
+
+Angela Linn: I
+
+Angela Linn: How do I get access to audio/
+
+Michelle Koo: yes you!
+
+Mariel and Teresa: No audio yet
+
+Lelena Avila (MVZ): we lost your audio MK
+
+Carla Cicero, MVZ: michelle, lost your audio
+
+Lelena Avila (MVZ): now we lost video too
+
+Mariel and Teresa: yes
+
+Teresa Mayfield (MSB): Isn't it also under Specimen Record?
+
+Carol Spencer - MVZ: I thought we asked for Part condition and disposition to be made public previously?
+
+DLM: https://github.com/ArctosDB/arctos/issues/1563
+
+DLM: https://arctos.database.museum/info/ctDocumentation.cfm?table=CTATTRIBUTE_CODE_TABLES
+
+DLM: https://github.com/ArctosDB/arctos/issues/1552
+
+DLM: https://github.com/ArctosDB/arctos/issues/1519
+
+DLM: https://github.com/ArctosDB/arctos/issues/1537
+
+Carol Spencer - MVZ: Michelle - how do you assign a nickname to a place?
+
+Andrew Doll - DMNS 2: Locality remark?
+
+Mariel and Teresa: Change "Locality Nickname" field to "Locality Name"?
+
+Carol Spencer - MVZ: yes
+
+Teresa Mayfield (MSB): https://tinyurl.com/ArctosiDigBioWebinarOfficeHour
+
+Mariel and Teresa: To file an issue: https://github.com/ArctosDB/arctos/issues
+
+Mary Beth (Alabama Museum of NH): Thanks!
