@@ -1,0 +1,14 @@
+  Emily Braker:Welcome! We will begin the webinar shortly at 3 pm EST
+  Travis Marsico:Does ecoregion / physiographic region fit within the higher geography?  Like Gulf Coastal Plain, Atlantic Coastal Plain, Blue Ridge Mountains, etc.
+  Emily Braker:Yes, these would fit under Feature in Higher Geography
+  Emily Braker:many mountain ranges and national parks fall under features and there are also categories such as drainages
+  Michelle:I'll bring up Features at the end
+  Michelle:good Q
+  Travis Marsico:Do curators have to approve changes made by others in the Arctos community to specific locality?  Or are these changes automatic?
+  Emily Braker:They do not, however, localities shared by multiple collections have red boxes around them and some "warning" language that users will be updating/editing not only locality data linked to their own specimens, but that of other collections and should be discouraged from doing so without contacting the other collections. Edits to shared localities are summariezed in a daily email with links so that users can see how their localities have been edited and make changes if needed.
+  Emily Braker:Importantly, localities that have been curator-verified are locked from editing
+  Carla Cicero, MVZ:Is there a way to search for non-compliant coordinates that don't fall within the polygon?
+  Teresa Mayfield-Meyer (MSB):It would be helpful if the chat box were larger. I can only read one line at a time.
+  Teresa Mayfield-Meyer (MSB):Thanks!
+  Travis Marsico:It is great to know about these features...thanks.
+  Emily Braker:https://tinyurl.com/ArctosiDigBio11geopart1
