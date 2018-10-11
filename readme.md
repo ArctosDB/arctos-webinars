@@ -16,8 +16,7 @@ be viewed by clicking on the date. Information about the Arctos webinar series c
 | [Tissues, Containers, and Object Tracking in Arctos](https://www.youtube.com/playlist?list=PLih71md2knDh9vQ1uQ0MPBVly1bQ8JSma) | Kyndall, Mariel | [2018-04-10](https://www.idigbio.org/content/arctos-webinar-tissues-containers-and-object-tracking-arctos) | 9 |
 | [Arctos Reports](https://www.youtube.com/watch?v=XQwXw0e9w-E&list=PLih71md2knDh9vQ1uQ0MPBVly1bQ8JSma) | Andy, Aren | [2018-05-08](https://www.idigbio.org/content/webinar-arctos-reports) | 10 |
 | [Arctos Help Day](https://www.youtube.com/playlist?list=PLih71md2knDh9vQ1uQ0MPBVly1bQ8JSma) | Michelle et al. | [2018-06-12](https://www.idigbio.org/content/arctos-open-office-hours) | 10 |
-| [How Arctos handles geographical data (Pt 1: database model)](https://www.youtube.com/watch?v=4e-NK8rNSTs&feature=youtu.be)
-| Michelle and Tom | [2018-10-09](https://www.idigbio.org/content/how-arctos-handles-geographical-data-part-1-database-model) | 20 |
+| [How Arctos handles geographical data (Pt 1: database model)](https://www.youtube.com/watch?v=4e-NK8rNSTs&feature=youtu.be)| Michelle and Tom | [2018-10-09](https://www.idigbio.org/content/how-arctos-handles-geographical-data-part-1-database-model) | 20 |
 | Arctos Geography (Pt 2)| Michelle, Beth, Andy | 2018-11-13| |
 | Taxonomy| Anna | 2018-12-11| |
 | Media | Mariel, Angie, Michelle | 2019-01-08| |
