@@ -1,0 +1,25 @@
+  Emily Braker:Welcome! We will begin the webinar shortly at 3 pm EST
+  Mary Beth:Hi Emily, I"m having trouble hearing you. 
+  Travis Marsico:How did you know that the point was not from Coony tank 2 or 3?
+  Travis Marsico:Oh, I see now on the screen it clarifies Cooney Tank #1 on the locality
+  Carla Cicero (MVZ):Tom - Shouldn;t it be Clear Creek Lake, not Clean Creek Lake?
+  Tom G.:Travis: because the verbatim locality description indicated "Cooney Tank #1"
+  Tom G.:Carla: "clean" was transcribed from the tag. locality is assumed "clear"
+  Carla Cicero (MVZ):But it looks like specific locality also said "Clean Creek Lake" even though it's clearly "Clear" from the map
+  Travis Marsico:Carla, are you saying that in this case the verbatim (what was typed on the label) should be different than the specific, because we make the assumption there was a mistake?  This means that the  "specific locality" should be the corrected locality.
+  Tom G.:Yes, i haven't gotten that far...
+  Carla Cicero (MVZ):Right.
+  Tom G.:Finalized: http://arctos.database.museum/guid/MSB:Herp:99701
+  Mary Beth:Is there a list of all these resources that is accessible?
+  Carla Cicero (MVZ):We should put those links mabye in the Handbook somewhere? Very useful!
+  Andrew Doll - DMNS:I will see about getting them into the handbook, but for now I'll put them here.
+  Andrew Doll - DMNS:Historical county boundaries: https://publications.newberry.org/ahcbp/index.html
+  Andrew Doll - DMNS:Address to coodinates: http://www.gpsvisualizer.com/geocoder/
+  Andrew Doll - DMNS:KMZ or KML to text file: http://www.gpsvisualizer.com/
+  Emily Braker:post-webinar survey: https://tinyurl.com/ArctosiDigBiogeography2
+  Mary Beth:Very   informative...I just hope I can remember this when I need it!
+  Vicky Zhuang (UTEP):so is there a way to batch georeference localities at the same time with geolocate besides picking out each specimen from the results table?
+  Vicky Zhuang (UTEP):my mic on this laptop doesn't work I think
+  Vicky Zhuang (UTEP):yes thanks!
+  Vicky Zhuang (UTEP):Thanks everyone!
+  Mary Beth:Thanks!
