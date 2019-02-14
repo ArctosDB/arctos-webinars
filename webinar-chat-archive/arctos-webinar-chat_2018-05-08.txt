@@ -1,0 +1,20 @@
+  Emily Braker:Can folks see the chat pod now?
+  Kyndall Hildebrandt (UAM):Yes!
+  Carla Cicero, MVZ:yes, now we can
+  Dawn Roberts (Chicago Academy of Sciences):Now I can!
+  Carla Cicero, MVZ:thanks!
+  Emily Braker:yay! sorry, the Arctos template was erased and set in a "presenter only view"
+  Carol Spencer:Hi Thanks Andrew! Just to be clear, the best way to make a new label is download it, do stuff to it and then upload it as a new name or is it better to clone and rename it?
+  Kyndall Hildebrandt (UAM):then you need to delete the cloned handler?
+  Carol Spencer:ok thanks!
+  Carla Cicero, MVZ:maybe you can say something about the best way to learn sql code for the handler? i.e., are there good resources for that?
+  Carla Cicero, MVZ:so mostly trial and error, then get help from Arctos community if you need it?
+  Carla Cicero, MVZ:if we need to make a minor change to a report (e.g., our loan invoice), it's probably ok to just upload and replace -correct? Or would you still create a copy just in case?
+  Carla Cicero, MVZ:if we're editing our own report, not someone else's
+  Emily Braker:http://bit.ly/ArctosOpenOfficeHours
+  Emily Braker:https://tinyurl.com/ArctosiDigBiowebinar9
+  Carla Cicero, MVZ:thanks!
+  Carla Cicero, MVZ: thanks!
+  Andrew Doll - DMNS: Thanks Emily
+  Mary Beth: Ach!  I'm too late!  There aren't enough hours in the day to do everything I need to!
+
