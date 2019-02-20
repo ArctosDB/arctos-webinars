@@ -19,7 +19,7 @@ be viewed by clicking on the date. Information about the Arctos webinar series c
 | [How Arctos handles geographical data (Pt 1: Database Model)](https://www.youtube.com/watch?v=4e-NK8rNSTs&feature=youtu.be)| Michelle and Tom | [2018-10-09](https://www.idigbio.org/content/how-arctos-handles-geographical-data-part-1-database-model) | 20 |
 | [How Arctos handles geographical data (Pt 2: Georeferencing & Managing Localities)](https://www.youtube.com/watch?v=YuP-hr6yvCU&list=PLih71md2knDh9vQ1uQ0MPBVly1bQ8JSma&index=14&t=1s)| Michelle, Beth, Andy | [2018-11-13](https://www.idigbio.org/content/how-arctos-handles-geographical-data-part-2)| 16 |
 | [Arctos Taxonomy](https://www.youtube.com/watch?v=1AMQ8SfrXiU&t=12s&list=PLih71md2knDh9vQ1uQ0MPBVly1bQ8JSma&index=15)| Phyllis, Mariel, Teresa | [2018-12-11](https://www.idigbio.org/content/arctos-taxonomy-webinar)| 14 |
-| Arctos Media | Carla, Angie, Beth | [2019-01-08](https://www.idigbio.org/content/arctos-media-webinar) | 23 |
+| [Arctos Media](https://www.youtube.com/watch?v=O0cxguPytmI&index=15&list=PLih71md2knDh9vQ1uQ0MPBVly1bQ8JSma) | Carla, Angie, Beth | [2019-01-08](https://www.idigbio.org/content/arctos-media-webinar) | 23 |
 | Open Office Hours II | Emily, Carla, Andy | [2019-03-12](https://www.idigbio.org/content/webinar-arctos-open-office-hours-ii-bells-whistles) | |
 
 Webinars are scheduled and managed through this repository. Please see [issues](/issues) to review or comment on potential webinar topics.
