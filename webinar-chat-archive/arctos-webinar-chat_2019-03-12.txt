@@ -1,0 +1,33 @@
+Diana S: For specimen bulk uploads, will Arctos flag incorrect scientific names, i.e., names that don’t match the Arctos taxonomy, after the bulk upload for review?
+ -------------------------- (03/12/2019 13:21) -------------------------- 
+Diana S: Thank you! It’s great to know we’ll get a flagged error. We’re concerned with our entomology collection because there are so many names. It’ll be good to have an error signal for us to check a subset of incorrect names.
+ -------------------------- (03/12/2019 13:24) -------------------------- 
+DLM: Reports/DataServices/ScientificNameChecker can be used to pre-check names as well
+ -------------------------- (03/12/2019 13:26) -------------------------- 
+DLM: also: http://handbook.arctosdb.org/documentation/bulkloader.html
+ -------------------------- (03/12/2019 13:28) -------------------------- 
+DLM: http://handbook.arctosdb.org/how_to/How-to-Create-Agents.html#tutorial-video
+ -------------------------- (03/12/2019 13:31) -------------------------- 
+Emily Braker: https://docs.google.com/spreadsheets/d/1BESoZ0mgRgONfSNziHpeumIIlnAWtoOnXxPISgQy2mU/edit#gid=0
+ -------------------------- (03/12/2019 13:36) -------------------------- 
+DLM: http://handbook.arctosdb.org/documentation/loans.html#type
+ -------------------------- (03/12/2019 13:42) -------------------------- 
+Nicole Ridgwell NMMNHS: What is the best way to keep track of internal loans in Arctos - we haven't had an internal loan system in the past and I want to structure to be compatible with Arctos's structure.
+
+Nicole Ridgwell NMMNHS: *I want to create one that will be compatible
+ -------------------------- (03/12/2019 13:47) -------------------------- 
+Nicole Ridgwell NMMNHS: Would the loan numbers need to be structured in the same way as external loans?
+
+Teresa Mayfield Meyer: I created a loan any time anyone touched anything.
+
+Nicole Ridgwell NMMNHS: Ok - Thanks!
+ -------------------------- (03/12/2019 13:51) -------------------------- 
+DLM: http://handbook.arctosdb.org/how_to/How-to-Create-Labels.html
+ -------------------------- (03/12/2019 13:59) -------------------------- 
+Emily Braker: https://tinyurl.com/AcrtosSpring19OfficeHours
+
+Mary Beth: This has been very helpful and thanks!
+
+Teresa Mayfield Meyer: Thanks!!!
+
+Steven Ginzbarg: Thanks!
