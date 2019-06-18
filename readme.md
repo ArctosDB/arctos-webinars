@@ -22,7 +22,7 @@ be viewed by clicking on the date. Information about the Arctos webinar series c
 | [Arctos Media](https://www.youtube.com/watch?v=O0cxguPytmI&index=15&list=PLih71md2knDh9vQ1uQ0MPBVly1bQ8JSma) | Carla, Angie, Beth | [2019-01-08](https://www.idigbio.org/content/arctos-media-webinar) | 23 |
 | [Open Office Hours II](https://www.youtube.com/watch?v=TkNerELuljg&index=18&list=PLih71md2knDh9vQ1uQ0MPBVly1bQ8JSma&t=1s) | Emily, Carla, Andy | [2019-03-12](https://www.idigbio.org/content/webinar-arctos-open-office-hours-ii-bells-whistles) | 13 |
 | [An Arctos and Aim-Up! Educational Module](https://www.youtube.com/watch?v=FV5vtR1elAA&t=380s)|Joe Cook|[2019-04-09](https://www.idigbio.org/content/webinar-arctos-and-aim-educational-module)|14|
-|[Using QGIS, to view, validate, cleanup localities in an accession](https://www.youtube.com/watch?v=bbF6giSOecQ)| Michelle, Carla | [2019-05-14](https://www.idigbio.org/content/webinar-using-qgis-view-validate-cleanup-localities-accession) |
+|[Using QGIS, to view, validate, cleanup localities in an accession](https://www.youtube.com/watch?v=bbF6giSOecQ)| Michelle, Carla | [2019-05-14](https://www.idigbio.org/content/webinar-using-qgis-view-validate-cleanup-localities-accession) | 32|
 
 Webinars are scheduled and managed through this repository. Please see [issues](/issues) to review or comment on potential webinar topics.
 Please see [arctos-webinar-to-do](/arctos-webinar-to-do.md) for an overview of what needs to happen to make one of these webinars happen.
