@@ -1,0 +1,9 @@
+  Emily Braker: (5/14/2019 12:46) Welcome! We will begin the webinar shortly at 3pm ET
+  Carol Spencer - MVZ: (13:32) How do you get the icons on the left to appear - I am using QGIS 3.4.7 and want to add those?
+  Emily Braker: (13:36) https://viewer.nationalmap.gov/services/
+  Carol Spencer - MVZ: (13:36) my question can wait
+  Carol Spencer - MVZ: (13:37) thanks!
+  Emily Braker: (13:58) https://tinyurl.com/ArctosQGIS
+  Emily Braker: (13:59) https://arctosdb.org/learn/webinars/using-qgis/
+  Rick Levy (Denver Botanic Gardens): (13:59) Thank you!
+  Janet: (14:00) Thank you!
