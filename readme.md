@@ -3,7 +3,8 @@
 Arctos is hosting a series of webinars in collaboration with Integrated Digitized Biocollections (iDigBio). 
 Past webinar **recordings** can be viewed by clicking on the title below, and **abstracts** for future webinars can
 be viewed by clicking on the date. Information about the Arctos webinar series can also be found on the [Arctos website](https://arctosdb.org/learn/webinars).
-Note: recordings migrated to youtube Brand account July 2019 - the first 5 webinars were posted to personal youtube accounts, migrating them to the Brand account reset the total views to 0.
+
+Note: webinar recordings migrated to the youtube brand account ("Arctos") July 2019. Total views for the first 5 webinar recordings (previously saved to personal youtube accounts) were reset to 0 during this process.
 
 | Webinar Topic | Presenters | Date | # Attendees |
 | --- | --- | --- | --- |
