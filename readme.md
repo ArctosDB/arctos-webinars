@@ -3,7 +3,7 @@
 Arctos is hosting a series of webinars in collaboration with Integrated Digitized Biocollections (iDigBio). 
 Past webinar **recordings** can be viewed by clicking on the title below, and **abstracts** for future webinars can
 be viewed by clicking on the date. Information about the Arctos webinar series can also be found on the [Arctos website](https://arctosdb.org/learn/webinars).
-
+Note: recordings migrated to youtube Brand account July 2019 - the first 5 webinars were posted to personal youtube accounts, migrating them to the Brand account reset the total views to 0.
 | Webinar Topic | Presenters | Date | # Attendees |
 | --- | --- | --- | --- |
 | [Introduction to Arctos as a CMS and community](https://www.youtube.com/watch?v=78V3MG_tBc4) ([outline](https://docs.google.com/document/d/1IYpQk0-6YcjWMcrjwN-iv_IoXIiyFyiFD1aGnngrh-U)) | Carla, Mariel | [2017-09-12](https://www.idigbio.org/content/arctos-webinar-series-episode-1) | 26 |
