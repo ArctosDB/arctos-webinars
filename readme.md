@@ -28,6 +28,7 @@ Note: webinar recordings migrated to the youtube brand account ("Arctos") July 2
 | Arctos Dashboard | Teresa, Emily | 2019-09-10 | |
 |Advanced Collection Management Using Arctos: Publications and projects demonstrate a collection’s impact | Aren | 2019-10-08| |
 |Creating Arctos Documentation in GitHub | Michelle, Teresa | 2019-11-12 (tentative| |
+|Introduction to Arctos for Entomology Collections | Derek | 2019-12-10 | |
 
 Webinars are scheduled and managed through this repository. Please see [issues](/issues) to review or comment on potential webinar topics.
 Please see [arctos-webinar-to-do](/arctos-webinar-to-do.md) for an overview of what needs to happen to make one of these webinars happen.
