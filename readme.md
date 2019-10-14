@@ -26,8 +26,9 @@ Note: webinar recordings migrated to the youtube brand account ("Arctos") July 2
 | [An Arctos and Aim-Up! Educational Module](https://www.youtube.com/watch?v=FV5vtR1elAA&t=380s)|Joe Cook|[2019-04-09](https://www.idigbio.org/content/webinar-arctos-and-aim-educational-module)|14|
 |[Using QGIS, to view, validate, cleanup localities in an accession](https://www.youtube.com/watch?v=bbF6giSOecQ)| Michelle, Carla | [2019-05-14](https://www.idigbio.org/content/webinar-using-qgis-view-validate-cleanup-localities-accession) | 32|
 |Arctos Collection Metrics & Data Improvement Tools | Teresa, Emily | [2019-09-10](https://www.idigbio.org/content/webinar-arctos-collection-metrics-and-data-quality-improvement-tools) | 13 |
-|Advanced Collection Management Using Arctos: Publications and projects demonstrate a collection’s impact | Aren | 2019-10-08| |
-|Creating Arctos Documentation in GitHub | Michelle, Teresa | 2019-11-12 (tentative| |
+|[Advanced Collection Management Using Arctos: Publications and projects demonstrate a collection’s impact](https://www.youtube.com/watch?v=gJmQbCcBV74&list=PLTKS7HneAyX6MArKam_zA3OxE3bzK26QL&index=16&t=0s) | Aren | 2019-10-08| 14 |
+|Connected Data in the Arctos Ecosystem | Mariel| 2019-11-12| |
+|Creating Arctos Documentation in GitHub | Michelle, Teresa | Nov/Dec| |
 |Introduction to Arctos for Entomology Collections | Derek | 2019-12-10 | |
 
 Webinars are scheduled and managed through this repository. Please see [issues](/issues) to review or comment on potential webinar topics.
