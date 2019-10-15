@@ -1,0 +1,24 @@
+  Emily Braker: (10/8/2019 12:50) Welcome! We will begin shortly at 3pm ET.
+  Colleen Filipek (JSNM): (12:53) Thank you! 
+  Deb Paul: (13:14) Are these publications linked on data export? (in an extension file in a DwC-A)?
+  Deb Paul: (13:15) Can you also quantify "identified" (how many IDs are being done and by whom?)
+  Deb Paul: (13:16) What does ARCTOS recommend to authors to use to cite specimens?
+  Erica Krimmel: (13:18) @Deb Yes to quantifying identification events
+  Deb Paul: (13:19) Same question Aren from project point of view. On export of specimen data from ARCTOS, can each specimen that was touched (imaged, sampled, etc) as a result of the grant - have the grant information included in the specimen record?
+  Emily Braker: (13:19) A specimen can have any number of IDs - determiner can be a student, an expert, genetic basis, etc. This allows for multiple identifications (often improving through time) and a determination history. For citations, generally there will be the original determiner and then the ID that the author has applied (new name or simply referenced as a voucher in a study). 
+  Emily Braker: (13:21) no, pubs aren't linked on data export (confirmed by our programmer Dusty)
+  Emily Braker: (13:21) Authors should minimally use institution code and catalog number
+  Deb Paul: (13:21) Hi @Emily. I'm asking from a "can I show the activities of those doing IDs" in a quantitative way. As in ## specimens ID by person A, ### specimens ID by person B, etc. Would be great to keep track of ID requests that 1) could be met (person available and had time to do it), and 2) IDs requested -- that coulndn't be met (no time for person, or no person with proper expertise to do)...
+  Deb Paul: (13:25) Happy Feb Birthday Aren!
+  Emily Braker: (13:29) The Agent Activity page summarizes a person's contributions/database actions including their total identifications (w/links to the corresponding specimen records). check out Joseph Grinnell's page:   http://secure-web.cisco.com/1k2qOq3N_6diSppK8zHHCrxCR0cdNafzPqskQJ9D0pmv6HXz0Tt3VLR6gvolrPzu420AmXg_2zSLgf9BP4ruAfk8yRUue95B6zwrEoDMdEBASqFWQ1Kx449IPaKDtfoJq6IRKuLPWOkwQlYwOfIt1H3a7cIhBXzGJm0srox9QMb6B0zAGFeB6YD6s_xVVN6K-cLeSCYCDGEQixPA_RK3N7XOdUjlxr4LttCpn6rSMj9dmpzqaiCr0dVAMxjhuve4YBq2AwZVJZxxHVRflicqv5gRnhcaW_9hEy2fa5uKkZLNfnVJNmXW4Lua93quT-gTOQKkhkS4w6xPfhqwKFtSDFGBDCXOsXYAfsnkcCVdh8FwmHj947OfVx5TMRYC5rwbDQw4kYNbRGPtP3cJHZJIPWIrnmQqUX99pSUrwsXAcbc06UD_awzjiNtKFyn2XDYsG_BMiRPNczX0B0XYF8D-xmA/http%3A%2F%2Farctos.database.museum%2Finfo%2FagentActivity.cfm%3Fagent_id%3D10000220%3B%20there's not a way to see all of the compiled determiners for a given taxon other than going through each record 
+  Emily Braker: (13:32) Taxon summary page compiles a good amount of summary data for each taxon: http://secure-web.cisco.com/167pCXZFf4MOCCHUqEiSGJKNrM9480oKEUHR4vs9eXpzBk110j_EZ59CnKp8MooSN0D5QwIVGo685DxO7wfufH2efA-wI1Mj2AwhStUJpcrnc7ZoKXB2PcL-WkCQZQGwhFumYecBTYb9qSxFHu1xjaGX2ayy2stb6dAi7_KBc_mzDwzztkNDt7sSJR0dnlMm5HBTNzY69By5mkn9LUo6MYe5wT7SALubuopftsXvRG4Tx9qM5paLuZ0BTEvYWZRYDII0_nEERzNYqd-MG8hvvVSKCVW0upyjIYDErnIcOkv0cUwIb8JsDdEYFUgNHvOjYEzEk-TrxYfxKrySqiUDsZXBQkuvniZHKco5ufIyFdoegQvfV_9ruXeyZQP-rs7sDhIEYhboFCZO7ur3By_PKcdRFJEtEtvf-NVBaO12du-FXM_h9odqRxDPNHRRxuAV5_xmeTsbpd3sUgsR2MpY7EQ/http%3A%2F%2Farctos.database.museum%2Fname%2FCanis%2520lupus but adding a stat on people who have contributed IDs to each taxon would be a useful feature
+  Emily Braker: (13:33) Also from Dusty re: downloading NSF awards/project stats -we have the data, it could be done, not clear how it would be mapped to dwc
+  Deb Paul: (13:34) Yes! DwC needs a field/s to do this well. There's no great way (beyond a text field or "dynamicProperties" to do this. NSF would like to be able to do this --- very much)
+  Emily Braker: (13:35) Absolutely, would be great for tracking impacts
+  Deb Paul: (13:41) https://secure-web.cisco.com/1F1000smg5d8Oc57MezIhBvFvzDWUq10UQ4dmdKfU2xSQOMWjPPVCnMVe_I6Vmwc0x9SyCEetxsClEL_hPp7FuWFNPfZDN17hACFAe2nUU17BPMzjeZ8OnqBPN_pHLdoCDP2maSEhpo2Mxa_Kp2K46zrMT0DfuVOiaEdTkfGmXcLnCRFVmR3ZTq0lHJ4ZYF29igG4LBNxbPP2ixz_lRn6krrGNMlwTwIGJ6mywEV1OIFw_FoHpfaTb3kDVLWryPzZv_Gm891f5QUOozmk068KH8PU8x-JTh_NJEOgWZYFWyGBBf8xA-oVZ70_3I7c9A_ZrKo_X81GPfK18TXdz0f1kRB-4un8eGNmAaCxn8giuXIBLKLj10HvMpRxyBcP6y9OAaFDMhwTor0aMDGVeR1oDIMVrFQKZ19U_KBYHWU7enlLZ_SqciCyRWqA23MZILp6InZUsy0BsVet0eoKHhedFw/https%3A%2F%2Fbloodhound-tracker.net%2F
+  Deb Paul: (13:47) Yay!
+  Deb Paul: (13:50) Thanks for answering all my questions :-)
+  Emily Braker: (13:53) http://bit.ly/ArctosOct8Survey
+  Erica Krimmel: (13:53) Tahnsk Aren & Emily!
+  Deb Paul: (14:14) https://dwc.tdwg.org/terms/#dwc:identificationVerificationStatus
+
