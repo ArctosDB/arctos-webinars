@@ -1,0 +1,11 @@
+ Emily Braker: (11/12/2019 12:27) Welcome! We will begin the webinar shortly at 3pm EST
+  New Mexico Museum of Natural History: (13:46) I corrected the other identifier on MSB:210447 so it now links to the AMNH GBIF record.
+  New Mexico Museum of Natural History: (13:47) There is a toll to find those relationships in the write SQL function, I believe.
+  New Mexico Museum of Natural History: (13:47) *tool
+  New Mexico Museum of Natural History: (13:48) Actually, you can find those unreciprocated realtionships here: https://secure-web.cisco.com/1eQv1iWcgzG3kY9vscz5R7Foy50J7oPjGB423kHb9ueEWp2Vsw7GQcT_H98L8IDf8U0gIZsBZgNn892KVNQgY4ORSOh1WlAJ5Vysh3rFBgNo2k21lJjo1MQod4RyDaLBAbNj10BOdG8tOizg2ydprrbEBRqDrVYEDCrD8ofyQW43QWaUZTM4vY4vIA5RQ2Q4XBGqlq66rlV7hHSV-055xHEbtUcuwnhwDqeKJ6-BhcesrazTYksnJFAEnak7nJ5kbzFmckcZIch6zcRG54CVr1rNDL3_NitTSCekIwgVCIKQpfrAkRKNovObjQAKh8AYFRuU-QSz60Dq_a8N7kDo6zlsc5Aq8c2lbFWw-pfSgn76SjVybujyoY8dreNeR4NeBRMf20296o5jX-2OKJcUpKoqpAVVueMQPR-msFMzYQvk3gW8LOE9tzODZFgEPipIewJXMBQmzX5vh1FWtfSLp1g/https%3A%2F%2Farctos.database.museum%2Ftools%2FBulkloadOtherId.cfm
+  New Mexico Museum of Natural History: (13:50) :-)
+  New Mexico Museum of Natural History: (13:56) I'm in!
+  Emily Braker: (13:56) post webinar survey:http://bit.ly/ArctosLinkages
+  Jorrit (GloBI): (13:57) Thank for organizing!
+  Erica Krimmel, iDigBio: (13:57) thanks!
+  Kat Sullivan: (13:57) Great presentation thanks!!
