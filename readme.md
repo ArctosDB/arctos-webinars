@@ -32,6 +32,10 @@ Note: webinar recordings migrated to the youtube brand account ("Arctos") July 2
 |Introduction to Arctos for Entomology Collections | Derek | 2019-12-10 | |
 |Open Office Hours III | TBD | 2020-01-13| | |
 |Introduction to Arctos for Paleo Collections | Teresa & TBD| 2020-02-10 | |
+|Introduction to Arctos for Mammal Collections | Aren | 2020-03-10 | |
+|Introduction to Arctos for Teaching Collections | Anna | 2020-04-14 | |
+|Introduction to Arctos for (non-insect) Invertebrate Collections| Phyllis | 2020-05-12 | |
+|Introduction to Arctos for Bird & Egg Collections | Carla | 2020-Fall | |
 
 Webinars are scheduled and managed through this repository. Please see [issues](/issues) to review or comment on potential webinar topics.
 Please see [arctos-webinar-to-do](/arctos-webinar-to-do.md) for an overview of what needs to happen to make one of these webinars happen.
