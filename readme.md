@@ -36,6 +36,7 @@ Note: webinar recordings migrated to the youtube brand account ("Arctos") July 2
 |Introduction to Arctos for Teaching Collections | Anna | 2020-04-14 | |
 |Introduction to Arctos for (non-insect) Invertebrate Collections| Phyllis | 2020-05-12 | |
 |Introduction to Arctos for Bird & Egg Collections | Carla | 2020-Fall | |
+|Introduction to Arctos for Botany Collections | TBD| 2020-Fall | |
 
 Webinars are scheduled and managed through this repository. Please see [issues](/issues) to review or comment on potential webinar topics.
 Please see [arctos-webinar-to-do](/arctos-webinar-to-do.md) for an overview of what needs to happen to make one of these webinars happen.
