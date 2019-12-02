@@ -27,7 +27,7 @@ Note: webinar recordings migrated to the youtube brand account ("Arctos") July 2
 |[Using QGIS, to view, validate, cleanup localities in an accession](https://www.youtube.com/watch?v=bbF6giSOecQ)| Michelle, Carla | [2019-05-14](https://www.idigbio.org/content/webinar-using-qgis-view-validate-cleanup-localities-accession) | 32|
 |[Arctos Collection Metrics & Data Improvement Tools](https://www.youtube.com/watch?v=6o6xAiaSFs0&list=PLTKS7HneAyX6MArKam_zA3OxE3bzK26QL&index=15&t=0s) | Teresa, Emily | [2019-09-10](https://www.idigbio.org/content/webinar-arctos-collection-metrics-and-data-quality-improvement-tools) | 13 |
 |[Advanced Collection Management Using Arctos: Publications and projects demonstrate a collection’s impact](https://www.youtube.com/watch?v=gJmQbCcBV74&list=PLTKS7HneAyX6MArKam_zA3OxE3bzK26QL&index=16&t=0s) | Aren | [2019-10-08](https://www.idigbio.org/content/artcos-webinar-advanced-collection-management-using-arctos-publications-and-projects)| 14 |
-|Connected Data in the Arctos Ecosystem | Mariel| [2019-11-12](https://www.idigbio.org/content/arctos-ecosystem-using-standardized-predictable-data-form-resolvable-reciprocal-links)| 15 |
+|[Connected Data in the Arctos Ecosystem](https://www.youtube.com/watch?v=cQx0nOnWCQo&feature=youtu.be) | Mariel| [2019-11-12](https://www.idigbio.org/content/arctos-ecosystem-using-standardized-predictable-data-form-resolvable-reciprocal-links)| 15 |
 |Creating Arctos Documentation in GitHub | Michelle, Teresa | Jan/Feb| |
 |Introduction to Arctos for Entomology Collections | Derek | 2019-12-10 | |
 |Open Office Hours III | TBD | 2020-01-13| | |
