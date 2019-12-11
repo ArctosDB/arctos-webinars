@@ -1,0 +1,30 @@
+  Emily Braker: (12/10/2019 12:27) Welcome! We will present the webinar shortly at 3pm EST.
+  Derek Sikes: (12:38) https://secure-web.cisco.com/1G9uf88aNBBcjb9OrOi82M8e0DvshtmE1fh1pF0xzFIKgpGRIe6i-FDTKRntwlSB0tsE0mPHZNPE3DDDmSl0pc3Knbz1bPuGFbpWnxoAQsMnniiTacKVNCOa0FFvKEMpJnbMqX8llRk1GWK5IaQGMjhUD00dXFRTzueFWlf1YZL4MWqtcm3DGJu0hQivuEYghMrwiqAQG7LOoKJWsMIAWwSPAsN8QGkNcwblHBR4xV9fbQcREJ8muntiEI2GMzzLxyLz3g5YBAbNKjE7UZxE3Kv00JlGdvOCWb1psxaNQzoR1-r_rXws90992H4Q9LLGvLgkuRLanXtpB-HJEnFsLzrJVGL10ym5gkdZnHsYgCWBJjp07MGQmBB5y7nCl37fEgA-pqz9Enz_ykqNP4R6WCnjFaQ6x5ouhUfEmaKubAxy3hoKDU5CcFFMRH3tkNldGTJitdtsKA29I-rLElT94wv6B_8nm6FKwk6V6bcWWpOI/https%3A%2F%2Farctosdb.org%2Fabout%2Fdetails%2Fpresentations%2F
+  Invertebrate Zoology: (12:56) Let me know when we can test our sound
+  Emily Braker: (12:57) I will enable participant microphones at the end of the webinar duroing Q&A, but feel free to ask questions in the chat throughout the presentation!
+  Invertebrate Zoology (MCZ): (12:57) Your sound*
+  Emily Braker: (12:58) I'll start in 2 minutes
+  Mary Beth: (13:02) Yes!
+  Mike Baldwin: (13:02) loud and clear
+  Invertebrate Zoology (MCZ): (13:03) Working on it
+  Emily Braker: (13:36) Arctos is up in Colorado
+  Crystal: (13:36) We can still hear and see you!
+  Carla Cicero (MVZ): (13:37) arctos is working in Berkeley!
+  Carla Cicero (MVZ): (13:41) Derek, do you use GeoLocate to georeference for ento? Maybe show that plugin?
+  Crystal: (13:45) We use GeoLocate here at MCZ
+  Mary Beth: (13:48) Derek, you didn't enter 15 but 5
+  Mary Beth: (13:49) Your original entry was 5
+  Sven-Erik Spichiger-WSDA: (13:49) How do you address a collected specimen that is reared to a different life stage later?
+  Carla Cicero (MVZ): (13:51) You can also have multiple specimen events for a record, and link parts to a particular event
+  Emily Braker: (13:51) Arctos has the ability to note multiple collecting events - so in this case you could have event 1 = collect date, event 2 = date euthanized at a different point in time
+  Invertebrate Zoology (MCZ): (13:58) Was that a drag and drop media upload?
+  Emily Braker: (13:58) yes, it handles one at a time
+  Invertebrate Zoology (MCZ): (13:58) Also,
+  Invertebrate Zoology (MCZ): (13:59) Can you Modify saved searches?
+  Emily Braker: (14:03) please take survey! http://bit.ly/ArctosEntoSurvey
+  Mary Beth: (14:03) Thanks, Derek
+  Alana Rivera (MCZ): (14:03) Thank you so much Derek!
+  Crystal: (14:03) Thanks a lot!
+  Erica Krimmel: (14:03) Thank you!
+  Invertebrate Zoology (MCZ): (14:03) Thank you
+  Mike Baldwin: (14:04) thanks Derek!
