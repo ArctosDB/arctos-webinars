@@ -1,0 +1,60 @@
+  Emily Braker: (1/14/2020 12:40) Office Hours Google Doc: http://bit.ly/OfficeHoursIII
+  Angela Linn, UAM:EH: (12:44) good luk!
+  Mariel Campbell: (12:52) Hi Emily, can you say something for mic check?
+  Angela Linn, UAM:EH: (13:03) Wow! I had no idea! :-)
+  Lindsey Frederick NMMNHS: (13:04) Thanks!
+  Emily Braker: (13:04) Great tip!
+  Angela Linn, UAM:EH: (13:04) BTW this only works if you use sequential number-only catalog numbers
+  Mary Beth: (13:04) Yep, thanks for that!
+  Mary Beth: (13:10) I see.  I thought Arctos would add the number, but I see we need to add the number ourselves.
+  Teresa Mayfield-Meyer: (13:10) Yep!
+  Mary Beth: (13:11) Okay, thanks!
+  Mary Beth: (13:11) Also, I think I read that if you wanted to autodisplay you had to let Dusty know?!
+  Mary Beth: (13:12) Yes Emily, yes!!
+  Mary Beth: (13:13) Ohh, id they have to ask Dusty for that?
+  Emily Braker: (13:14) Mary Beth - once you enter your first loan, e.g. 2020.1.Paleo, Arctos will then have 2020.2.Paleo as a suggested next available #
+  Angela Linn, UAM:EH: (13:14) leading zeros are key!
+  Mary Beth: (13:14) Okay, leading zeros needed.
+  Mary Beth: (13:15) Got it.
+  Mary Beth: (13:17) wow!
+  Mary Beth: (13:18) Here-here!
+  Mary Beth: (13:18) That was my questions and you answered it!
+  Angela Linn, UAM:EH: (13:19) I'm just hearing mouse sounds!
+  Mary Beth: (13:23) That sounds great!
+  Angela Linn, UAM:EH: (13:23) GREAT tip!!!
+  Mariel Campbell: (13:23) Much easier!!
+  Michelle (MVZ): (13:23) love that tip!
+  Mary Beth: (13:23) Nope
+  Mariel Campbell: (13:23) Just make sure they change their passwords to operator specs before trying to authenticate
+  Emily Braker: (13:37) Magic!
+  Angela Linn, UAM:EH: (13:38) super cool!
+  Mary Beth: (13:38) Nope, thankx
+  Angela Linn, UAM:EH: (13:41) good question!
+  Angela Linn, UAM:EH: (13:42) this is part of that question that Derek Sikes brought up re: records vs items
+  Mary Beth: (13:47) This was mine.  Of course, not everything is documented in the how to/ documentation.  If I do something and created an error message, I don't always know what I've done or why.  If there was a record of other people's problems with certain features, ite would be helpful.
+  Mariel Campbell: (13:48) There is a general Arctos error list
+  Mary Beth: (13:48) Cryptic is an understatement!
+  Mariel Campbell: (13:49) I got an error the other day "invalid number" :)
+  Mary Beth: (13:50) Okay, that would help.  I just wanted to make sure if I didn't add it to each one, it wouldn't screw things up.
+  Mariel Campbell: (13:50) Arctos error messages: http://secure-web.cisco.com/1M2aMN3tEhuWtLw0bw-kqtUoPHAOIzUB8vOf1RkQK5EquCBPxpejzyyFTWePewDlSBOaA0jIqOQjVBzrPiwDrLNQTM2e6CsC6hSZK9sNprZ7b0EwlsJLzw5H3yxZnGzJzr2xxOvE57GE6PXjMiCJIA88fqaZoxLd5ZuHLFHyQBoV57a46pQzTxZCX_l6pnl0Q6S3IxpK4ktgVzDeUuN31MBEPwRn_7s9I4Od7SIfv9LWJWC_B9BauzvA-R7i3fQkewNlVJGn4CSKZ_qhMjY0XzAeKQst6O0WYFQsna53BIOC_ZTg8W_jIfewO66Gx-EnLsIzwCWjxWJVWXTEOTMJjOxvOgeuZ2Bg_sPdwO5IlDYWc5k7y9RI3ImvV47KXx0t6A9gta7LpoFYrK9oaflYKJZFRWhDQEQ1w5Zhy0uRIn8nNBnwt2jX3f1Gcy7-eXfFt2hRJxCOoUe9oF5XsIcgWQBcjjxDCERONCkK3zr8Kk5o/http%3A%2F%2Fhandbook.arctosdb.org%2Fdocumentation%2Funderstanding-errors.html
+  Mary Beth: (13:50) Using remarks will work!
+  Mary Beth: (13:50) I'm cool..
+  Mary Beth: (13:52) I thought we were trying to pare things down? 
+  Emily Braker: (13:53) It's really up to the individual collection as to what "resolution" you want your parts (e.g., post cranial skeleton vs naming every single bone in a box)
+  Mary Beth: (13:56) Well...if I could talk instead of write..
+  Beth Wommack (UWYMV): (13:56) Ok, thank you
+  Mariel Campbell: (14:02) We need a separate discussion on how publications get linked to projects.
+  Mariel Campbell: (14:02) If a project contains a specimen linked to a publication, does the pub autolink to the project?
+  Mariel Campbell: (14:04) We should look inot automating this
+  Beth Wommack (UWYMV): (14:05) Not really, but I think we're thinking of it differently
+  Beth Wommack (UWYMV): (14:05) Yes, as a permit
+  Beth Wommack (UWYMV): (14:06) Ok, thank you that answers my question
+  Angela Linn, UAM:EH: (14:12) Looking forward to making a couple of tutorials!
+  Mary Beth: (14:14) This has been helpful...thank you!
+  Beth Wommack (UWYMV): (14:14) Thank you for the answers
+  Carla Cicero (MVZ): (14:14) Thank you guys!
+  Mariel Campbell: (14:14) Thank you!
+  Angela Linn, UAM:EH: (14:14) Thanks everyone for the super suggestions!
+  Michelle (MVZ): (14:14) thanks!
+  Lindsey Frederick NMMNHS: (14:14) thank you!
+
