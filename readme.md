@@ -30,7 +30,7 @@ Note: webinar recordings migrated to the youtube brand account ("Arctos") July 2
 |[Connected Data in the Arctos Ecosystem](https://www.youtube.com/watch?v=cQx0nOnWCQo&feature=youtu.be) | Mariel| [2019-11-12](https://www.idigbio.org/content/arctos-ecosystem-using-standardized-predictable-data-form-resolvable-reciprocal-links)| 15 |
 |Creating Arctos Documentation in GitHub | Michelle, Teresa | Jan/Feb| |
 |[Introduction to Arctos for Entomology Collections](https://www.youtube.com/watch?v=2nZS5zjiTp8&t=16s)| Derek | [2019-12-10](https://www.idigbio.org/content/webinar-introduction-entomology-collections-arctos) | 25 |
-|Open Office Hours III | Teresa, Mariel, Angie, Emily | [2020-01-13](https://www.idigbio.org/content/webinar-arctos-open-office-hours-iii)| 11 |
+|[Open Office Hours III](https://www.youtube.com/watch?v=iZAYQQJLTNQ&t=4s) | Teresa, Mariel, Angie, Emily | [2020-01-13](https://www.idigbio.org/content/webinar-arctos-open-office-hours-iii)| 11 |
 |Introduction to Arctos for Paleo Collections | Teresa & Nicole| [2020-02-10](https://www.idigbio.org/content/webinar-geology-arctos) | |
 |Introduction to Arctos for Mammal Collections | Aren | 2020-03-10 | |
 |Introduction to Arctos for Teaching Collections | Anna | 2020-04-14 | |
