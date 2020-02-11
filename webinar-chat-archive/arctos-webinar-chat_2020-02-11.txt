@@ -1,0 +1,27 @@
+  Teresa J Mayfield-Meyer: (2/11/2020 12:34) Geology Resources
+  Teresa J Mayfield-Meyer: (12:34) http://www.stratigraphy.org/ICSchart/ChronostratChart2019-05.jpghttps://macrostrat.org/https://ngmdb.usgs.gov/Geolex/search
+  Teresa J Mayfield-Meyer: (12:35) http://www.stratigraphy.org/ICSchart/ChronostratChart2019-05.jpg
+  Teresa J Mayfield-Meyer: (12:35) https://secure-web.cisco.com/1Tzz_JdKSvLgJh-Fi6E4gDXRWF8yExyFM3H-7lf9TfBbh0KE0lAKTm5t3koAHMcVl1i3F3Cqe63d8sInBKyof_v0Rh3cGh72qUGDLalvVzCn1ISXmw5lClO_5zWKT8Db-rLSRwFhk5iB3yKRtZ8XSkbmQAzcNK51Br2CB0P0sSs6bu5DsNc08XuHdjMiBrlCyZwFpBOfIibKr07W_kcjZZfU6Jzsi3QenT01Ig897yu39ncK4pbdvKfv_fUmZGPYNaFLQkuKzdJboqkoBynnZBcILJ9twdbZqd-btvGdHxaRY65tnKxPVOW6XkDDs4vBr94lOv4PGKXJNRWHGjfn5W6Sf_PIBR6T8vYy--teNeYOa_c5ldZ6qK8d1CtnUNKRdhetnGx7mN9XqoJfxzkaFzsMHJ5KtPxWr3_23r6SaOjdE-VtK1Y8bpJ21EN3ZQB-0iKIgzonV22Kq9niha1XIKQ/https%3A%2F%2Fmacrostrat.org%2F
+  Teresa J Mayfield-Meyer: (12:35) https://ngmdb.usgs.gov/Geolex/search
+  Greg Liggett: (13:20) Q- You enter all PLSS along with the coordinates?
+  Anna Chinn, CHAS: (13:21) Are private access localities completely hidden from the public? Are these stored as separate events?
+  Anna Chinn, CHAS: (13:23) (or rather, does adding the private access attribute hide the entire specimen event that the locality is associated with?)
+  Emily Braker: (13:23) These are great questions - I'm not as familiar with the geology data structure so we can ask these when there is a pause for Q&A
+  Greg Liggett: (13:25) Who is managing your domain tables?
+  Emily Braker: (13:27) They are community-sourced. If vocabulary needs to be added, a user creates a GitHub issue which then is approved by a code table committe (generally things don't get rejected if they are accompanied by a valid authority URL/publication)
+  Greg Liggett: (13:27) Is this source generally available? 
+  Greg Liggett: (13:28) I am not familiar with GitHub
+  Emily Braker: (13:28) use, GitHub is a platform that we use to communicate Arctos issues. It is open access.
+  Emily Braker: (13:29) https://github.com/ArctosDB
+  Emily Braker: (13:30) code table vocabulary is also accessible: http://secure-web.cisco.com/1sqCVFLg9fCoEaIL-Ofoxcz9JgRIQJKBYlcEjQfU2XE98YuaykatqFjNrguPZprazpctFEMmyBPgDVJ-HtSDGIp2c-PwnC1e2zPLnJcyYLWzu9LyClNLwTFOOb6UL9g9T7_xeBwBQAB84mlBuRoSQdLuhx85xQdQiD--DX8k6hYxOBJMvoynUkwLsw_Ru4YsyGJ89su-Y1E6AVBvVpMpzDHr3sa94UbGV9Oe9efkCnUwxCratBvE7e7SN-8Kcxr9lwDCLPl7nKNRTqRFZNBjXkoASB_P330WavESkJeT25tDaNkWJbxMRMqCESKfexK9_hS6O5jClHChdDxCP51H9c3FYv_6qL8N-KKzsIpXKX67stXwF9mNzUBRN6fa-fg4hOcPZBpD6p0EKOUTRr17ejWWcnfCKiymFsZrxblHRYeZJB2YjVGPmM0efRc4S8cqzjigbjnkJ_C_MEnkAQkme3A/http%3A%2F%2Farctos.database.museum%2Finfo%2FctDocumentation.cfm%3Ftable%3DCTGEOLOGY_ATTRIBUTE
+  Greg Liggett: (13:30) Interesting. Does the formation list cover many states/areas?
+  Anna Chinn, CHAS: (13:33) Whoa cool! Thanks Teresa.
+  Erica Krimmel (iDigBio / Florida State Univ): (13:33) Very cool
+  Greg Liggett: (13:34) For you federal localities, are all of them marked private, and completely not shown at all to the public?
+  Greg Liggett: (13:40) Thank you
+  Emily Braker: (13:45) bit.ly/ArctosGeology
+  Erica Krimmel (iDigBio / Florida State Univ): (13:45) This was really great–cool stuff happening for geology data in Arctos! Thanks Nicole & Teresa
+  Bushra Hussaini: (13:46) Thank you , Bushra from American Museum of Natural History
+  Greg Liggett: (13:47) Thank you for this
+  Lindsey Frederick NMMNHS: (13:47) Great job! Thanks for all your hard work
+  L Catherine Riddle: (13:47) Thank you!
