@@ -33,8 +33,8 @@ Note: webinar recordings migrated to the youtube brand account ("Arctos") July 2
 |[Open Office Hours III](https://www.youtube.com/watch?v=iZAYQQJLTNQ&t=4s) | Teresa, Mariel, Angie, Emily | [2020-01-13](https://www.idigbio.org/content/webinar-arctos-open-office-hours-iii)| 11 |
 |[Introduction to Arctos for Paleo Collections](https://www.youtube.com/watch?v=D7-VrvYU1pI) | Teresa & Nicole| [2020-02-10](https://www.idigbio.org/content/webinar-geology-arctos) | 10 |
 |Introduction to Arctos for Mammal Collections | Aren | [2020-03-10](https://www.idigbio.org/content/webinar-introduction-arctos-mammal-collections) | |
-|Introduction to Arctos for Teaching Collections | Anna | 2020-04-14 | |
-|Introduction to Arctos for (non-insect) Invertebrate Collections| Phyllis | 2020-05-12 | |
+|[Introduction to Arctos for Teaching Collections](https://youtu.be/2qs5vcx9nbs) | Anna | 2020-04-14 | recording |
+|[Introduction to Arctos for (non-insect) Invertebrate Collections](https://youtu.be/D-p1eYkTe5c)| Phyllis and Anna | [2020-05-12](https://www.idigbio.org/content/webinar-intro-non-insect-invertebrate-collections-arctos) | 17 |
 |Introduction to Arctos for Bird & Egg Collections | Carla | 2020-Fall | |
 |Introduction to Arctos for Botany Collections | TBD| 2020-Fall | |
 
