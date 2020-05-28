@@ -1,0 +1,25 @@
+13:12:12	 From  Emily M. Braker : arctosdb.org/learn/tutorial-blitz
+13:12:29	 From  Emily M. Braker : https://handbook.arctosdb.org/resources/
+13:42:40	 From  Paula Cushing : Great overview! thanks
+13:43:18	 From  meganking : How are the records shared with the volunteers?
+13:46:11	 From  Erica Krimmel : Ditto, thanks Phyllis and Anna! I am curious what kinds of geographic resources you find useful for georeferencing marine localities? And how does Arctos manage administrative geographic information (like country) for marine localities that aren't super close to shore?
+13:46:44	 From  meganking : Yes georef
+13:46:47	 From  meganking : Sorry about that
+13:47:01	 From  meganking : Through Symbiota we use crowdsourcing
+13:47:21	 From  Teresa.Mayfield-Meyer : Volunteers have access to data entry that is checked by Phyllis before they go into Arctos
+13:47:33	 From  meganking : Yes permission
+13:48:17	 From  Nuno : will I be able to unmute and participate with my question with direct voice?
+13:49:01	 From  Emily M. Braker : Yes. We have a question from Erika then I will call on you
+13:49:02	 From  meganking : Okay so they are allowed to create accounts, that answers my question! I wasn’t sure about this so it seems similar to how Symbiota works in this aspect.
+13:51:40	 From  Anna Chinn : Yes, only Arctos operators with specific permissions can edit locality information (including georeferencing). Arctos data entry and locality records use Tulane's GEOLocate API, so we've georeferenced using those integrated tools.
+13:55:03	 From  Erica Krimmel : Well shoot, I was hoping you guys had solved this problem for all of us haha. Thank you for the insight though!
+13:58:45	 From  Nuno   to   Emily M. Braker(Privately) : ns@ciencias.unam.mx
+13:59:00	 From  Carla Cicero : Great job!
+13:59:04	 From  meganking : Thank you everyone!
+13:59:13	 From  Nuno : Tahnks! Great demonstration.
+13:59:32	 From  Nuno   to   Emily M. Braker(Privately) : https://www.bdmy.org.mx/colecciones
+13:59:36	 From  Nuno   to   Emily M. Braker(Privately) : in spanish
+13:59:37	 From  Erica Krimmel : thanks!
+13:59:42	 From  Carla Cicero : Thanks!
+13:59:42	 From  Teresa.Mayfield-Meyer : Great job guys!!!
+14:00:07	 From  Phyllis Sharp : Thanks for joining us!
