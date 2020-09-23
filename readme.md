@@ -32,12 +32,13 @@ Note: webinar recordings migrated to the youtube brand account ("Arctos") July 2
 |[Introduction to Arctos for Entomology Collections](https://www.youtube.com/watch?v=2nZS5zjiTp8&t=16s)| Derek | [2019-12-10](https://www.idigbio.org/content/webinar-introduction-entomology-collections-arctos) | 25 |
 |[Open Office Hours III](https://www.youtube.com/watch?v=iZAYQQJLTNQ&t=4s) | Teresa, Mariel, Angie, Emily | [2020-01-13](https://www.idigbio.org/content/webinar-arctos-open-office-hours-iii)| 11 |
 |[Introduction to Arctos for Paleo Collections](https://www.youtube.com/watch?v=D7-VrvYU1pI) | Teresa & Nicole| [2020-02-10](https://www.idigbio.org/content/webinar-geology-arctos) | 10 |
-|Introduction to Arctos for Mammal Collections | Aren | [2020-03-10](https://www.idigbio.org/content/webinar-introduction-arctos-mammal-collections) | |
+|Introduction to Arctos for Mammal Collections | Aren | [2020-03-10](https://www.idigbio.org/content/webinar-introduction-arctos-mammal-collections) |cancelled |
 |[Introduction to Arctos for Teaching Collections](https://youtu.be/2qs5vcx9nbs) | Anna | 2020-04-14 | recording |
 |[Introduction to Arctos for (non-insect) Invertebrate Collections](https://youtu.be/D-p1eYkTe5c)| Phyllis and Anna | [2020-05-12](https://www.idigbio.org/content/webinar-intro-non-insect-invertebrate-collections-arctos) | 17 |
 |[Publishing Arctos Records to Data Aggregators](https://youtu.be/0Nn7Pw9pGYk) | Dave Bloom | [2020-09-08](https://www.idigbio.org/content/webinar-traveling-data-river-arctos-getting-arctosdb-global-data-sharing) | 15 |
 |New Collections Onboarding| Teresa | 2020-10-03 | |
 |Introduction to Arctos for Bird & Egg Collections | Carla | 2020-11-10 | |
+|Introduction to Managing Mammal Collections in Arctos| Jon | 2020-12-08| |
 
 
 Webinars are scheduled and managed through this repository. Please see [issues](/issues) to review or comment on potential webinar topics.
