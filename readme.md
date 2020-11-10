@@ -36,8 +36,8 @@ Note: webinar recordings migrated to the youtube brand account ("Arctos") July 2
 |[Introduction to Arctos for Teaching Collections](https://youtu.be/2qs5vcx9nbs) | Anna | [2020-04-14](https://www.idigbio.org/content/webinar-introduction-arctos-teaching-collections) | recording |
 |[Introduction to Arctos for (non-insect) Invertebrate Collections](https://youtu.be/D-p1eYkTe5c)| Phyllis and Anna | [2020-05-12](https://www.idigbio.org/content/webinar-intro-non-insect-invertebrate-collections-arctos) | 17 |
 |[Publishing Arctos Records to Data Aggregators](https://youtu.be/0Nn7Pw9pGYk) | Dave Bloom | [2020-09-08](https://www.idigbio.org/content/webinar-traveling-data-river-arctos-getting-arctosdb-global-data-sharing) | 15 |
-|New Collections Onboarding| Teresa | 2020-10-13 | |
-|Introduction to Arctos for Bird & Egg Collections | Carla | 2020-11-10 | |
+|[New Collections Onboarding](https://youtu.be/w2AOZZE8Kjg)| Teresa | [2020-10-13](https://www.idigbio.org/content/arctos-webinar-new-collections-onboarding-process) | 14 |
+|[Introduction to Arctos for Bird & Egg Collections](https://youtu.be/9feaehktZ6E) | Carla & Beth | [2020-11-10](https://www.idigbio.org/content/arctos-webinar-series-introduction-arctos-bird-eggnest-collections) | 17 |
 |Introduction to Managing Mammal Collections in Arctos| Jon | 2020-12-08| |
 
 
