@@ -40,6 +40,7 @@ Note: webinar recordings migrated to the youtube brand account ("Arctos") July 2
 |[Introduction to Arctos for Bird & Egg Collections](https://youtu.be/9feaehktZ6E) | Carla & Beth | [2020-11-10](https://www.idigbio.org/content/arctos-webinar-series-introduction-arctos-bird-eggnest-collections) | 17 |
 |Introduction to Managing Mammal Collections in Arctos| Jon | 2020-12-08| |
 |Introduction to Managing Herpetology Collections in Arctos| Carol | 2021-01-12| |
+|Arctos Open Office Hours IV|  | 2021-02-08| |
 
 
 Webinars are scheduled and managed through this repository. Please see [issues](/issues) to review or comment on potential webinar topics.
