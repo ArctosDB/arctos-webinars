@@ -41,6 +41,7 @@ Note: webinar recordings migrated to the youtube brand account ("Arctos") July 2
 |[Introduction to Managing Mammal Collections in Arctos](https://youtu.be/1qI6UmucG-A)| Jon & Mariel| 2020-12-08| 19 |
 |Introduction to Managing Herpetology Collections in Arctos| Carol | 2021-01-12| |
 |Arctos Open Office Hours IV|  | 2021-02-08| |
+|Arctos and Genomic Data| Mariel | 2021-04-06| |
 
 
 Webinars are scheduled and managed through this repository. Please see [issues](/issues) to review or comment on potential webinar topics.
