@@ -42,7 +42,7 @@ Note: webinar recordings migrated to the youtube brand account ("Arctos") July 2
 |[Introduction to Managing Herpetology Collections in Arctos](https://youtu.be/a7f4ixvORaI)| Carol & Michelle | 2021-01-12| 16 |
 |Arctos Open Office Hours IV|  | 2021-02-09| |
 |Arctos and Genomic Data| Mariel | 2021-04-06| |
-
+|Intro to Managing Botany Collections in Arctos | Steffi| soft commit for Fall 2021| |
 
 Webinars are scheduled and managed through this repository. Please see [issues](/issues) to review or comment on potential webinar topics.
 Please see [arctos-webinar-to-do](/arctos-webinar-to-do.md) for an overview of what needs to happen to make one of these webinars happen.
