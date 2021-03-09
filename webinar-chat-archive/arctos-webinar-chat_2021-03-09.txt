@@ -1,0 +1,39 @@
+13:28:37	 From  Dori Contreras : Does the Tacc media automatically pipe to the idigbio and gbiff records?
+13:29:03	 From  Teresa Mayfield-Meyer : Yes, the links are passed along with the records to the aggregators.
+13:29:13	 From  Dori Contreras : great! thanks
+13:29:20	 From  Teresa Mayfield-Meyer : All media at TACC has its own url.
+13:30:27	 From  Teresa Mayfield-Meyer : https://www.tacc.utexas.edu/
+13:31:59	 From  Emily M. Braker : Additionally, Arctos records (including media) ar automatically harvested by the VertNet IPT and published to iDigBio and GBIF (no need to do it yourself!). Any collection can opt out of pushing data to aggregators if desired.
+13:32:15	 From  Emily M. Braker : *are
+13:39:57	 From  Nicole Neu-Yagle : Is the dual locality system used in other Arctos collections, like protected zoological specimens, or just paleo? I didn’t catch if the public record shares the same locality number as the protected locality. Are the two localities automatically linked (if you attach one the other is linked to the specimen record also)?
+13:40:08	 From  Kristen MacKenzie : yes, are you entering one record at a time?
+13:40:32	 From  Kristen MacKenzie : OR, do you have import spreadsheets that list each field
+13:41:00	 From  Mariel Campbell : Yes, other collections use hti
+13:41:37	 From  Mariel Campbell : We use the dual locality system for protected species when encumbrances don't cover all details.
+13:42:09	 From  Ashley Lownsdale : Do encumbrances expire?
+13:42:12	 From  Nicole Neu-Yagle : Thanks!!
+13:42:16	 From  Mariel Campbell : This allows a county level public map.
+13:43:48	 From  Carrie Levitt-Bussian : For your two "geologic member" example, was one member the accepted one and the other one was the old one? And is one marked as preferred vs the other?
+13:44:19	 From  Ashley Lownsdale : Thank you!
+13:44:42	 From  Carrie Levitt-Bussian : Great, thanks!
+13:48:40	 From  Kristen MacKenzie : cool!
+13:51:22	 From  Erica Krimmel : I have to take off early, but thank you so much, Nicole--this was a great demo
+13:53:14	 From  Kristen MacKenzie : Nicole would you mind sharing the work flow for the volunteer publication project?
+13:59:00	 From  Ron Eng : Nicole, That was great. Thank you very much!
+13:59:04	 From  Nicole Volden : nicole.volden@state.nm.us
+13:59:18	 From  Elizabeth Wommack : Great job Nicole!
+14:00:45	 From  Phyllis Sharp : Very helpful.  Thanks@
+14:01:09	 From  Mariel Campbell : And the Paleo records can be associated with mineral via relationships
+14:01:12	 From  Kristen MacKenzie : thank you!
+14:01:12	 From  Lindsay Walker : Thanks for sharing, Nicole. This was really interesting!
+14:01:15	 From  Nicole Neu-Yagle : Nice. Thank you!
+14:01:20	 From  Carrie Levitt-Bussian : Thank you so much!
+14:01:24	 From  mbprondzinski@ua.edu : Thanks for the overview, Nicole!
+14:01:25	 From  Ashley Lownsdale : Thank you!!
+14:01:35	 From  Talia Karim : thanks Nicole!
+14:01:52	 From  Una Farrell : Thanks!
+14:01:59	 From  JP Cavigelli : Thanks, y'all
+14:02:28	 From  Kristen MacKenzie : And do you have to pay extra?
+14:04:10	 From  Mariel Campbell : Or use external links to MorphoSource, MorphoBank
+14:04:49	 From  Dori Contreras : Thank you all!
+14:06:15	 From  Mariel Campbell : Thanks, all! Good job Nicole! Bye everyone.

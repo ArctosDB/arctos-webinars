@@ -1,0 +1,14 @@
+13:21:14	 From  Jessica Grady : will localities be merged across institutions? I assume you get a warning before they are merged...?
+13:23:46	 From  Emily M. Braker : Yes, if I have a herp collected 4 mi. N of Boulder and MVZ has a bird from the same locality, these records will be in the same "bin." You will get a (big red!) warning message if you are trying to retroactively georeference this locality that your edits will affect other institution's records . 
+13:24:25	 From  Emily M. Braker : Therefore you'd want to coordinate with other institutions before making edits to shared data. There are ways to lock localties so no one ca
+13:24:50	 From  Emily M. Braker : can edit a verified locality
+13:28:12	 From  Jessica Grady : ok, good to know. thanks! 
+13:28:46	 From  Lindsey Frederick NMMNHS : thanks that good information!
+13:34:30	 From  mbprondzinski@ua.edu : From my experience, OpenRefine has a steep learning curve which is why I abandoned it. Arctos is steep enough.
+13:38:01	 From  Emily M. Braker : Open Refine can be steep - Excel does the job for basic cleaning and finding the majority of inconsistencies. But Refine can handle really complex text strings if you are interested in normalizing data pre-loading to Arctos. 
+13:40:36	 From  mbprondzinski@ua.edu : Oh, that's good to know, Emily!
+13:40:58	 From  Lindsey Frederick NMMNHS : I used OpenRefine when we moved our biology data in and found it to be really helpful. I was able to clean up a lot of our localities pre-load.
+13:49:20	 From  mbprondzinski@ua.edu : thanks, Teresa!
+13:49:24	 From  Tyler Muller : Thank you!
+13:49:30	 From  Teresa Mayfield-Meyer : Thanks for coming!
+13:49:42	 From  Jessica Grady : thank you all! very helpful! 
