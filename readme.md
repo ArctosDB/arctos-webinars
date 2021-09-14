@@ -43,7 +43,7 @@ Note: webinar recordings migrated to the youtube brand account ("Arctos") July 2
 |[Intro to Managing Paleo Collections in Arctos](https://youtu.be/Nbco8HaGVjM)| Nicole| [2020-03-09](https://www.idigbio.org/content/webinar-introduction-arctos-paleontology-collections)| 30 |
 |[Open Office Hours IV](https://youtu.be/DwpbS8FsO38)| Emily, Angie, Teresa, Nicole, Carla | 2021-04-06| 8 |
 |[Arctos and Genomic Data](https://youtu.be/Fuzft2-GKjk)| Mariel and Kyndall| 2021-07-27| 24 |
-|Intro to Managing Icthyology Collections in Arctos | Kyndall | 2021-09-14| |
+|Intro to Managing Icthyology Collections in Arctos | Kyndall | 2021-09-14|10|
 |Intro to Managing Botany Collections in Arctos | Steffi| 2021-11-09| |
 
 Webinars are scheduled and managed through this repository. Please see [issues](/issues) to review or comment on potential webinar topics.
