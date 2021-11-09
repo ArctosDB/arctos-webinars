@@ -44,7 +44,7 @@ Note: webinar recordings migrated to the youtube brand account ("Arctos") July 2
 |[Open Office Hours IV](https://youtu.be/DwpbS8FsO38)| Emily, Angie, Teresa, Nicole, Carla | 2021-04-06| 8 |
 |[Arctos and Genomic Data](https://youtu.be/Fuzft2-GKjk)| Mariel and Kyndall| 2021-07-27| 24 |
 |[Intro to Managing Icthyology Collections in Arctos](https://youtu.be/zmL3ZJBvUbw) | Kyndall | 2021-09-14| 10 |
-|Intro to Managing Botany Collections in Arctos | Steffi| 2021-11-09| |
+|University of Alaska Herbarium (ALA): Documenting Alaska's flora at the crossroads of Beringia | Steffi, Cam Webb, Stephanie Zaborac-Reed| 2021-11-09| 18 |
 |Living Collections in Arctos | Michelle and Mariel| 2021-12-14| |
 
 Webinars are scheduled and managed through this repository. Please see [issues](/issues) to review or comment on potential webinar topics.
