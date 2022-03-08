@@ -45,7 +45,8 @@ Note: webinar recordings migrated to the youtube brand account ("Arctos") July 2
 |[Arctos and Genomic Data](https://youtu.be/Fuzft2-GKjk)| Mariel and Kyndall| 2021-07-27| 24 |
 |[Intro to Managing Icthyology Collections in Arctos](https://youtu.be/zmL3ZJBvUbw) | Kyndall | 2021-09-14| 10 |
 |[University of Alaska Herbarium (ALA): Documenting Alaska's flora at the crossroads of Beringia](https://youtu.be/1zMgQYwWArI) | Steffi, Cam Webb, Stephanie Zaborac-Reed| 2021-11-09| 18 |
-|Living Collections in Arctos | Michelle and Mariel| 2021-12-14| |
+|Living Collections in Arctos | Michelle and Mariel| 2021-12-14|cancelled |
+|[Arctos Menu Tour I](https://youtu.be/QJeLNCn62dE) | Teresa & Emily | 2022-03-08 | 15 |
 
 Webinars are scheduled and managed through this repository. Please see [issues](/issues) to review or comment on potential webinar topics.
 Please see [arctos-webinar-to-do](/arctos-webinar-to-do.md) for an overview of what needs to happen to make one of these webinars happen.
