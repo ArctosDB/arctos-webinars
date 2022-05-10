@@ -1,0 +1,21 @@
+13:18:26	 From  Jason Weckstein : Its also important to record how the host was "surveyed" for parasites... in otherwords, was a standard quantitative method used... this is especially important if one wants to capture intensity data.
+13:19:12	 From  Emily Braker : Absolutely. There is a place to record method in the Attributes table for this purpose.
+13:19:42	 From  Emily Braker : (if known!...always tricky with legacy data)
+13:20:14	 From  shorthoused : If I understand the initial workflow then, were all entries first made as observations and then elevated to physical specimens when there was evidence of vouchers?
+13:20:42	 From  Emily Braker : That is correct
+13:20:52	 From  shorthoused : Thanks, Emily!
+13:21:12	 From  Sara Brant : Yes early on I was putting it in remarks for stuff I worked on, but right, most of what we have I have no idea what was examined unless he says. Yes, at least in the host record we have mostly observations and in some cases we have same individual as if we find the host in a collection.
+13:24:15	 From  shorthoused : If first entered as an observation, is it more of an implicit “switch” to that of a physical specimen when a link is then made OR is there something akin to a basisOfRecord that a user then makes an active distinction between observation and physical voucher?
+13:28:40	 From  Emily Braker : Good question David, I'm fairly sure both observation and voucher record are kept (rather than updating basisOfrecord) - but let's check during Q&A
+13:44:47	 From  shorthoused : How is directionality of biological relationships like hostOf/parasiteOf stored within Arctos? Is there an ontological framework behind the scenes, perhaps borrowed from others like Globi? Might it likewise accommodate loose relationships like “commensal”?
+13:45:55	 From  Emily Braker : Here is the relationships code table - many types of ecological relationships are supported: https://arctos.database.museum/info/ctDocumentation.cfm?table=ctid_references
+13:47:49	 From  Emily Braker : They are bidirectional, with no limit on how many relationships an individual or lot may support
+13:49:41	 From  Jason Weckstein : Are there fields to capture intensity... e.g. numbers of a particular parasite.  For example, for lice we capture data on number of males, females, nymphs of every taxon we are collecting.
+13:50:32	 From  shorthoused : Interesting. Thanks! Any signals from others who reuse these (eg Globi, other) where reciprocal relationships like these aren’t *quite* the same concepts because of subtleties in local implementations?
+13:52:18	 From  Emily Braker : @Jason - age class and sex are captured in attributes, though there is not a separate column for intensities, which is a great suggestion to add to the code table
+13:52:32	 From  Sara Brant : @Jason there is on the parasite record, but I don’t know for the host record.
+13:56:42	 From  Emily Braker : @David - I'm sure those issues may come into play, but Jorrit at GLOBI does a lot of background queries to find these relationships as well as point out some associations that are buried (e.g., an ectoparasite is simply a "part" in a mammal record, rather than pulled out in a separate parasite record/catalog)
+13:58:15	 From  Sara Brant : I think there needs to be a discussion on data fields for host records where people are working on the parasites of the hosts, but are not creating parasite records. As well we need that for the parasite record. It is not as well set up for parasite biology yet.
+13:58:30	 From  Emily Braker : https://arctosdb.org/join-arctos/
+13:59:49	 From  shorthoused : Thanks everyone!
+14:05:21	 From  Thomas Labedz : Thank you!
