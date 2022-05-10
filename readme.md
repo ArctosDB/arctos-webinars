@@ -48,7 +48,7 @@ Note: webinar recordings migrated to the youtube brand account ("Arctos") July 2
 |Living Collections in Arctos | Michelle and Mariel| 2021-12-14|cancelled |
 |[Arctos Menu Tour I](https://youtu.be/QJeLNCn62dE) | Teresa & Emily | 2022-03-08 | 15 |
 |[Intro to Bionomia (external web service for Agent data](https://youtu.be/2N7w7KxmPdI) | David Shorthouse | 2022-05-10 | 7 |
-|[Managing Parasite, Pathogen, and Host data in Arctos]() |Mariel, Gabor, Andy | 2022-05-10 | 15 |
+|[Managing Parasite, Pathogen, and Host data in Arctos](https://youtu.be/o3qQxvy28h8) |Mariel, Gabor, Andy | 2022-05-10 | 15 |
 
 Webinars are scheduled and managed through this repository. Please see [issues](/issues) to review or comment on potential webinar topics.
 Please see [arctos-webinar-to-do](/arctos-webinar-to-do.md) for an overview of what needs to happen to make one of these webinars happen.
