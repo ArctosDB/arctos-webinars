@@ -49,6 +49,12 @@ Note: webinar recordings migrated to the youtube brand account ("Arctos") July 2
 |[Arctos Menu Tour I](https://youtu.be/QJeLNCn62dE) | Teresa & Emily | 2022-03-08 | 15 |
 |[Intro to Bionomia (external web service for Agent data](https://youtu.be/2N7w7KxmPdI) | David Shorthouse | 2022-05-10 | 7 |
 |[Managing Parasite, Pathogen, and Host data in Arctos](https://youtu.be/o3qQxvy28h8) |Mariel, Gabor, Andy | 2022-05-10 | 15 |
+|[GloBI ♥ Arctos: a practical exploration of biotic association records across platforms, collections and institutions](https://youtu.be/WYbYk35d-Js) | Jorrit | 2022-09-06| 9 |
+|[Introduction to Managing Archives in Arctos](https://youtu.be/Fq-HnKNeARQ) | Michelle | 2022-10-11 | 15 |
+|Arctos Entities: Greater than the sum of their parts | Teresa, Serina Brady, Carla, Emily | 2022-11-08 | |
+|[Label & Reports Tool Introduction and Office Hours](https://youtu.be/WYbYk35d-Js) | Michelle | 2022-12-14 | 15 |
+|[Arctos UI Tour: What's New](https://youtu.be/VMUVIv6YGBU)| Emily 2023-02-14 | 14 |
+
 
 Webinars are scheduled and managed through this repository. Please see [issues](/issues) to review or comment on potential webinar topics.
 Please see [arctos-webinar-to-do](/arctos-webinar-to-do.md) for an overview of what needs to happen to make one of these webinars happen.
